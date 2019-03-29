@@ -50,6 +50,37 @@
       "bHideFromUI": false
     },
     {
+      "uniqueTag": "ESL3v3Elim",
+      "categories": [
+        "UT+ Pickup Games"
+      ],
+      "title": "3v3 Elimination",
+      "tooltip": "3v3 - ESL ruleset. The team with players left alive at the end of a round scores a point - reverse friendly fire ON.",
+      "description": "Survive, and kill the other team!\n\n<UT.Hub.RulesText_Small>First team to 10 points wins.</>",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
+      "customMapList": [
+        "/Game/Maps/DM-Cheops-UT2004",
+        "/Game/GrendelKeep/DM-Grendelkeep_Shell",
+        "/Game/Under/DM-Over",
+        "/Game/Signify/DM-Signify",
+        "/Game/RestrictedAssets/Maps/Pater/DM-Structured_UT4_Shell",
+        "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K"
+      ],
+      "maxPlayers": 6,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
+      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "requiredPackages": [
+        "/Game/ALTS/Elimination_113.Elimination_113_C"
+      ],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "optionFlags": 65535,
+      "bHideFromUI": false
+    },
+    {
       "uniqueTag": "5v5 UT+",
       "categories": [
         "Featured"
@@ -57,32 +88,12 @@
       "title": "5v5 CTF UT+ STATS",
       "tooltip": "Capture the Flag - Competitive Rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
-      "mapPrefixes": [],
+      "mapPrefixes": [
+        "CTF"
+      ],
       "maxMapsInList": 0,
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-      "customMapList": [
-        "/Game/Anfractuous2/CTF-Anfractuous2",
-        "/Game/AreaN23/CTF-AreaN23",
-        "/Game/Azcanize/CTF-Azcanize",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-CE100-UT99/CTF-Bleak-v4",
-        "/Game/RestrictedAssets/Maps/Pater/CTF-BollWerK_UT4",
-        "/Game/Maps/CTF-Cliff/CTF-Cliff-WIP11",
-        "/Game/Cynosure/CTF-Cynosure2",
-        "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Gataka-SE/CTF-Gataka-SE-UT99",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-November-UT99/CTF-November-UT99_metal-4",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Orbital-UT99/CTF-Orbital-SE-UT99_metal-4",
-        "/Game/EpicInternal/Pistola/CTF-Pistola-Shell",
-        "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
-        "/Game/Ranel/CTF-Ranel",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Revenge-LE102-UT99/CTF-Revenge-LE102-UT99",
-        "/Game/RestrictedAssets/Maps/CTF-Runoff_shell_v1_2",
-        "/Game/CTF-Shadow-Textured",
-        "/Game/Terra/CTF-Terra-v1",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-TitanPass_Shell",
-        "/Game/Maps/CTF-VaultCity_FPS",
-        "/Game/Virility/CTF-Virility_CE"
-      ],
+      "customMapList": [],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
@@ -93,57 +104,6 @@
         "UTPlus",
         "/Game/RestrictedAssets/Blueprints/Mutator_Mutator_WeaponSkins.Mutator_Mutator_WeaponSkins_C"
       ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
-      "uniqueTag": "5v5CTFProMode_Pro",
-      "categories": [
-        "TEST"
-      ],
-      "title": "5v5 CTF ProMode STATS/No ESP",
-      "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
-      "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10\n\n Hitsounds ON. No Spawn Protection ON. No Respawn ON. Redeemer OFF. PickUp Timers OFF. Weapon Skins ON</>",
-      "mapPrefixes": [
-        "CTF"
-      ],
-      "maxMapsInList": 25,
-      "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/phroxen/GameMode/CTFP.CTFP_C",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=Mutator_WeaponSkins,MutHitsounds,MutTeamSkins,Global_StatSQL-v2,CustomHUD,PawnRep,MutatorStatsRecord,MutatorAutoRcon,ProMode?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [
-        "/Game/ProMode/Mutator_ProMode.Mutator_ProMode_c",
-        "/Game/RestrictedAssets/Blueprints/Mutator_Mutator_WeaponSkins.Mutator_Mutator_WeaponSkins_C"
-      ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
-      "uniqueTag": "CTF TESTING",
-      "categories": [
-        "Featured"
-      ],
-      "title": "TEST",
-      "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
-      "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10\n\n Hitsounds ON. No Spawn Protection ON. No Respawn ON. Redeemer OFF. PickUp Timers OFF. Weapon Skins ON</>",
-      "mapPrefixes": [
-        "CTF"
-      ],
-      "maxMapsInList": 25,
-      "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-      "customMapList": [],
-      "maxPlayers": 2,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/phroxen/GameMode/CTFNDC.CTFNDC_C",
-      "gameOptions": "?TimeLimit=1?GoalScore=1?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?Mutator=instagib,Global_StatSQL-v2,MutHitsounds,MutTeamSkins,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
       "optionFlags": 65535,
