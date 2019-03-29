@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "uniqueTag": "5v5CTFPUG",
+      "uniqueTag": "PUG_CTF",
       "categories": [
         "UT+ Pickup Games"
       ],
@@ -50,7 +50,7 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "ESL3v3Elim",
+      "uniqueTag": "PUG_ELIM",
       "categories": [
         "UT+ Pickup Games"
       ],
@@ -85,7 +85,7 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "duel",
+      "uniqueTag": "PUG_DUEL",
       "title": "Duel",
       "categories": [
         "UT+ Pickup Games"
