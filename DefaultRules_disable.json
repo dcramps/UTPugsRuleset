@@ -137,8 +137,8 @@
       "customMapList": [
         "/Game/DM-Coma/Maps/DM-Coma_A015",
         "/Game/EpicInternal/Lea/DM-Lea",
+        "/Game/Maps/DM-Fervor/DM-Fervor_V8",
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
-        "/Game/RestrictedAssets/Maps/WIP/DM-BoneCrusher_MC2",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
         "/Game/maps/DM-Erase_Beta/DM-Erase_B9",
@@ -168,10 +168,9 @@
         "/Game/DM-Coma/Maps/DM-Coma_A015",
         "/Game/EpicInternal/Lea/DM-Lea",
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
-        "/Game/RestrictedAssets/Maps/WIP/DM-BoneCrusher_MC2",
+        "/Game/Maps/DM-Fervor/DM-Fervor_V8",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
-        "/Game/maps/DM-Erase_Beta/DM-Erase_B9",
         "/Game/Maps/DM-Erase/DM-EraseV2_a03"
       ]
     },
