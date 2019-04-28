@@ -395,7 +395,7 @@
       "maxPlayers": 2,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Game/phroxen/GameMode/CTFNDC.CTFNDC_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=AbsoluteHitSounds,Instagib,CustomHud,Global_StatSQL-v2,UTPlusMovement,MutatorAutoRcon,MutatorStatsRecord,?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,UTPlusMovement,MutatorAutoRcon,MutatorStatsRecord,?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
         "CustomHud"
