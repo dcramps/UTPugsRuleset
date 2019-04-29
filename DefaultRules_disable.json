@@ -377,26 +377,28 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "1v1iCTFw00t",
+      "uniqueTag": "1v1iCTF",
       "categories": [
         "Featured"
       ],
-      "title": "1v1 iCTF w00t STATS",
+      "title": "1v1 iCTF STATS",
       "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 10 minutes \nMaximum players: 2\n\n Hitsounds ON. No Spawn Protection ON.</>",
       "mapPrefixes": [
         "CTF"
       ],
-      "maxMapsInList": 1,
+      "maxMapsInList": 2,
       "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
       "customMapList": [
+		"/Game/UT99/Maps/CTF-Denise",
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2"
       ],
       "maxPlayers": 2,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Game/phroxen/GameMode/CTFNDC.CTFNDC_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,UTPlusMovement,MutatorAutoRcon,MutatorStatsRecord,?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,UTPlusMovement,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
+		"/Game/UT99/Maps/CTF-Denise",
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
         "CustomHud"
       ],
@@ -405,6 +407,52 @@
       "optionFlags": 65535,
       "bHideFromUI": false
     },
+	{
+      "uniqueTag": "2v2iCTF",
+      "categories": [
+        "Featured"
+      ],
+      "title": "2v2 iCTF STATS",
+      "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
+      "description": "Red Versus Blue capture the flag.\n\nTime limit: 10 minutes \nMaximum players: 2\n\n Hitsounds ON. No Spawn Protection ON.</>",
+      "mapPrefixes": [
+        "CTF"
+      ],
+      "maxMapsInList": 25,
+      "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
+      "customMapList": [
+		"/Game/Abreez/CTF-Abreez-SE",
+		"/Game/UT99/Maps/CTF-RGI-Bridge",
+		"/Game/CTF-Collateral",
+		"/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
+		"/Game/UT99/Maps/CTF-Denise",
+		"/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
+		"/Game/UT99/Maps/CTF-RGI-Romra",
+		"/Game/UT99/Maps/CTF-RGI-ThornsV2",
+		"/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
+      ],
+      "maxPlayers": 4,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
+      "gameMode": "/Game/phroxen/GameMode/CTFNDC.CTFNDC_C",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,UTPlusMovement,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
+      "requiredPackages": [
+		"/Game/Abreez/CTF-Abreez-SE",
+		"/Game/UT99/Maps/CTF-RGI-Bridge",
+		"/Game/CTF-Collateral",
+		"/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
+		"/Game/UT99/Maps/CTF-Denise",
+		"/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
+		"/Game/UT99/Maps/CTF-RGI-Romra",
+		"/Game/UT99/Maps/CTF-RGI-ThornsV2",
+		"/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
+        "CustomHud"
+      ],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "optionFlags": 65535,
+      "bHideFromUI": false
+    },
+
     {
       "uniqueTag": "BR1",
       "categories": [
