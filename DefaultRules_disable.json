@@ -88,6 +88,43 @@
       "bHideFromUI": false
     },
     {
+      "uniqueTag": "PUG_ELIM4",
+      "categories": [
+        "UT+ Pickup Games"
+      ],
+      "title": "4v4 Elimination",
+      "tooltip": "4v4 - ESL ruleset. The team with players left alive at the end of a round scores a point - friendly fire ON.",
+      "description": "Survive, and kill the other team!\n\n<UT.Hub.RulesText_Small>First team to 10 points wins.</>",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
+      "customMapList": [
+        "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
+        "/Game/RestrictedAssets/Maps/DM-Cheops-UT4",
+        "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
+        "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
+        "/Game/PaterAssets/MyMaps/Elucidation/DM-Elucidation_UT4_Shell",
+        "/Game/GrendelKeep/DM-Grendelkeep_Shell",
+        "/Game/Under/DM-Over",
+        "/Game/Rankin/DM-Rankin-LE",
+        "/Game/Signify/DM-Signify",
+        "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Shell",
+        "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
+        "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K"
+      ],
+      "maxPlayers": 8,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
+      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "requiredPackages": [
+        "/Game/ALTS/Elimination_113.Elimination_113_C"
+      ],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "optionFlags": 65535,
+      "bHideFromUI": false
+    },
+    {
       "uniqueTag": "PUG_DUEL",
       "title": "Duel",
       "categories": [
@@ -182,38 +219,8 @@
       ]
     },
     {
-      "uniqueTag": "5v5 UT+",
-      "categories": [
-        "Featured"
-      ],
-      "title": "5v5 CTF UT+ STATS",
-      "tooltip": "Capture the Flag - Competitive Rules. Check out https://ut4pugs.us/match_history",
-      "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
-      "mapPrefixes": [
-        "CTF"
-      ],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [
-        "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
-        "/Game/MUGA/BP_MUGA-WindowsNoEditor",
-        "UTPlus",
-        "/Game/RestrictedAssets/Blueprints/Mutator_Mutator_WeaponSkins.Mutator_Mutator_WeaponSkins_C"
-      ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
       "uniqueTag": "UT+TDM2v2",
       "categories": [
-        "Featured",
         "Competitive"
       ],
       "title": "UT+ Team Deathmatch 2v2",
@@ -240,7 +247,6 @@
     {
       "uniqueTag": "UT+TDM3v3",
       "categories": [
-        "Featured",
         "Competitive"
       ],
       "title": "UT+ Team Deathmatch 3v3",
@@ -268,7 +274,7 @@
     {
       "uniqueTag": "BLITZ UT+",
       "categories": [
-        "Featured"
+        "Competitive"
       ],
       "title": "5v5 Blitz UT+",
       "tooltip": "competitive rules. See stats at https://ut4pugs.us/match_history",
@@ -286,14 +292,13 @@
       ],
       "maxPlayers": 10,
       "requiredPackages": [
-        "ArmorOverlay",
         "/Game/RestrictedAssets/Blueprints/Mutator_Mutator_WeaponSkins.Mutator_Mutator_WeaponSkins_C"
       ]
     },
     {
       "uniqueTag": "ShockDomination",
       "categories": [
-        "Featured"
+        "Competitive"
       ],
       "title": "PUG SDOM 4v4",
       "tooltip": "Red versus Blue Shock Domination - competitive rules.",
@@ -325,61 +330,9 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "ESL3v3Elim",
-      "categories": [
-        "Featured"
-      ],
-      "title": "UT+ 3v3 Elimination",
-      "tooltip": "3v3 - ESL ruleset. The team with players left alive at the end of a round scores a point - reverse friendly fire ON.",
-      "description": "Survive, and kill the other team!\n\n<UT.Hub.RulesText_Small>First team to 10 points wins.</>\n<UT.Hub.RulesText_Small>10 points. Reverse Friendly Fire ON. Hitsounds ON.</>",
-      "mapPrefixes": [
-        "DM"
-      ],
-      "maxMapsInList": 16,
-      "defaultMap": "/Game/RestrictedAssets/Maps/WIP/DM-Deadfall",
-      "customMapList": [],
-      "maxPlayers": 6,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [
-        "/Game/ALTS/Elimination_113.Elimination_113_C"
-      ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
-      "uniqueTag": "ESL4v4Elim",
-      "categories": [
-        "Featured"
-      ],
-      "title": "UT+ 4v4 Elimination",
-      "tooltip": "3v3 - ESL ruleset. The team with players left alive at the end of a round scores a point - reverse friendly fire ON.",
-      "description": "Survive, and kill the other team!\n\n<UT.Hub.RulesText_Small>First team to 10 points wins.</>\n<UT.Hub.RulesText_Small>10 points. Reverse Friendly Fire ON. Hitsounds ON.</>",
-      "mapPrefixes": [
-        "DM"
-      ],
-      "maxMapsInList": 16,
-      "defaultMap": "/Game/RestrictedAssets/Maps/WIP/DM-Deadfall",
-      "customMapList": [],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,MutatorStatsRecord,MutatorAutoRcon?MaxPlayers=8?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [
-        "/Game/ALTS/Elimination_113.Elimination_113_C"
-      ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
       "uniqueTag": "1v1iCTF",
       "categories": [
-        "Featured"
+        "iCTF"
       ],
       "title": "1v1 iCTF STATS",
       "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
@@ -390,7 +343,7 @@
       "maxMapsInList": 2,
       "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
       "customMapList": [
-		"/Game/UT99/Maps/CTF-Denise",
+        "/Game/UT99/Maps/CTF-Denise",
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2"
       ],
       "maxPlayers": 2,
@@ -398,7 +351,7 @@
       "gameMode": "/Game/phroxen/GameMode/CTFN.CTFN_C",
       "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
-		"/Game/UT99/Maps/CTF-Denise",
+        "/Game/UT99/Maps/CTF-Denise",
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
         "CustomHud"
       ],
@@ -407,10 +360,10 @@
       "optionFlags": 65535,
       "bHideFromUI": false
     },
-	{
+    {
       "uniqueTag": "2v2iCTF",
       "categories": [
-        "Featured"
+        "iCTF"
       ],
       "title": "2v2 iCTF STATS",
       "tooltip": "Red versus Blue capture the flag - competitive rules. Check out https://ut4pugs.us/match_history",
@@ -421,616 +374,35 @@
       "maxMapsInList": 25,
       "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
       "customMapList": [
-		"/Game/Abreez/CTF-Abreez-SE",
-		"/Game/UT99/Maps/CTF-RGI-Bridge",
-		"/Game/CTF-Collateral",
-		"/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
-		"/Game/UT99/Maps/CTF-Denise",
-		"/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
-		"/Game/UT99/Maps/CTF-RGI-Romra",
-		"/Game/UT99/Maps/CTF-RGI-ThornsV2",
-		"/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
+        "/Game/Abreez/CTF-Abreez-SE",
+        "/Game/UT99/Maps/CTF-RGI-Bridge",
+        "/Game/CTF-Collateral",
+        "/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
+        "/Game/UT99/Maps/CTF-Denise",
+        "/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
+        "/Game/UT99/Maps/CTF-RGI-Romra",
+        "/Game/UT99/Maps/CTF-RGI-ThornsV2",
+        "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2"
       ],
       "maxPlayers": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Game/phroxen/GameMode/CTFN.CTFN_C",
       "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
-		"/Game/Abreez/CTF-Abreez-SE",
-		"/Game/UT99/Maps/CTF-RGI-Bridge",
-		"/Game/CTF-Collateral",
-		"/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
-		"/Game/UT99/Maps/CTF-Denise",
-		"/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
-		"/Game/UT99/Maps/CTF-RGI-Romra",
-		"/Game/UT99/Maps/CTF-RGI-ThornsV2",
-		"/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
+        "/Game/Abreez/CTF-Abreez-SE",
+        "/Game/UT99/Maps/CTF-RGI-Bridge",
+        "/Game/CTF-Collateral",
+        "/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
+        "/Game/UT99/Maps/CTF-Denise",
+        "/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
+        "/Game/UT99/Maps/CTF-RGI-Romra",
+        "/Game/UT99/Maps/CTF-RGI-ThornsV2",
+        "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
         "CustomHud"
       ],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
       "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-
-    {
-      "uniqueTag": "BR1",
-      "categories": [
-        "BombingRun"
-      ],
-      "title": "BombingRun 2k4",
-      "toolTip": "BombingRun UT2k4 style",
-      "description": "Bombing Run Community Mod with UT2k4 movement\n<UT.Hub.RulesText_Small>Version: 1.51</>\n<UT.Hub.RulesText_Small>Mutators: Hitsounds, ArmorOverlay, HiddenWeapons, Mutator_WeaponSkins</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [
-        "BR"
-      ],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/BRMap/Anubis/BR-Anubis",
-      "quickPlayMaps": [],
-      "customMapList": [
-        "/Game/BRMap/Anubis/BR-Anubis",
-        "/Game/BRMap/TwinTombsorigins/BR-TwinTombs",
-        "/Game/BRMap/Grendelkeep/BR-Grendelkeep",
-        "/Game/BRMap/Disclosure/BR-Disclosure"
-      ],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/UT4BombingRun/UT4BRGameMode",
-      "gameOptions": "?MaxPlayerWait=120?TimeLimit=20?GoalScore=100?Mutator=/Game/BombingRun,Global_StatSQL-v2,AbsoluteHitSounds,ArmorOverlay,HiddenWeapons?ForceRespawn=1?BalanceTeams=true?Difficulty=5?MaxSpectators=2",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "BR2",
-      "categories": [
-        "BombingRun"
-      ],
-      "title": "BombingRun UT4",
-      "toolTip": "BombingRun UT4 style",
-      "description": "Bombing Run Community Mod with UT4 movement\n<UT.Hub.RulesText_Small>Version: 1.51</>\n<UT.Hub.RulesText_Small>Mutators: Hitsounds, ArmorOverlay, HiddenWeapons, Mutator_WeaponSkins</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [
-        "BR"
-      ],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/BRMap/Anubis/BR-Anubis",
-      "quickPlayMaps": [],
-      "customMapList": [
-        "/Game/BRMap/Anubis/BR-Anubis",
-        "/Game/BRMap/TwinTombsorigins/BR-TwinTombs",
-        "/Game/BRMap/Grendelkeep/BR-Grendelkeep",
-        "/Game/BRMap/Disclosure/BR-Disclosure"
-      ],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/UT4BombingRun/UT4BRGameMode",
-      "gameOptions": "?MaxPlayerWait=120?TimeLimit=20?GoalScore=100?vBR=true?Mutator=/Game/BombingRun,Mutator_WeaponSkins,ProMode,AbsoluteHitSounds,Global_StatSQL-v2,VisibilityPlus,MutatorStatsRecord,MutatorAutoRcon?ForceRespawn=1?BalanceTeams=true?Difficulty=5?MaxSpectators=2",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "BR3",
-      "categories": [
-        "BombingRun"
-      ],
-      "title": "iBombingRun 2k4",
-      "toolTip": "Instagib BombingRun UT2k4 style",
-      "description": "Instagib Bombing Run Community Mod with UT2k4 movement\n<UT.Hub.RulesText_Small>Version: 1.51</>\n<UT.Hub.RulesText_Small>Mutators: Hitsounds, ArmorOverlay, HiddenWeapons, Mutator_WeaponSkins</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [
-        "BR"
-      ],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/BRMap/Anubis/BR-Anubis",
-      "quickPlayMaps": [],
-      "customMapList": [
-        "/Game/BRMap/Anubis/BR-Anubis",
-        "/Game/BRMap/TwinTombsorigins/BR-TwinTombs",
-        "/Game/BRMap/Grendelkeep/BR-Grendelkeep",
-        "/Game/BRMap/Disclosure/BR-Disclosure"
-      ],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/UT4BombingRun/UT4BRGameMode",
-      "gameOptions": "?MaxPlayerWait=120?TimeLimit=20?GoalScore=100?iBR=true?Mutator=/Game/BombingRun,Global_StatSQL-v2,AbsoluteHitSounds,ArmorOverlay,HiddenWeapons?ForceRespawn=1?BalanceTeams=true?Difficulty=5?MaxSpectators=2",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "BR4",
-      "categories": [
-        "BombingRun"
-      ],
-      "title": "iBombingRun UT4",
-      "toolTip": "Instagib BombingRun UT4 style",
-      "description": "Instagib Bombing Run Community Mod with UT4 movement\n<UT.Hub.RulesText_Small>Version: 1.51</>\n<UT.Hub.RulesText_Small>Mutators: Hitsounds, ArmorOverlay, HiddenWeapons, Mutator_WeaponSkins</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [
-        "BR"
-      ],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/BRMap/Anubis/BR-Anubis",
-      "quickPlayMaps": [],
-      "customMapList": [
-        "/Game/BRMap/Anubis/BR-Anubis",
-        "/Game/BRMap/TwinTombsorigins/BR-TwinTombs",
-        "/Game/BRMap/Grendelkeep/BR-Grendelkeep",
-        "/Game/BRMap/Disclosure/BR-Disclosure"
-      ],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Game/UT4BombingRun/UT4BRGameMode",
-      "gameOptions": "?MaxPlayerWait=120?TimeLimit=20?GoalScore=100?iBR=true?vBR=true?Mutator=/Game/BombingRun,Global_StatSQL-v2,AbsoluteHitSounds,ArmorOverlay,HiddenWeapons?ForceRespawn=1?BalanceTeams=true?Difficulty=5?MaxSpectators=2",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "FlagRun",
-      "categories": [
-        "Featured"
-      ],
-      "title": "Blitz",
-      "toolTip": "Attackers must deliver their flag to the enemy base.",
-      "description": "Blitz.\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/WIP/FR-Fort,/Game/RestrictedAssets/Maps/WIP/FR-MeltDown,/Game/RestrictedAssets/Maps/WIP/FR-Loh",
-      "defaultMap": "",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/WIP/FR-Fort",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Loh"
-      ],
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTFlagRunGame",
-      "gameOptions": "",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "FlagRunVSAI",
-      "categories": [
-        "Featured"
-      ],
-      "title": "Blitz vs AI",
-      "toolTip": "Co-op vs AI.  Attackers must deliver their flag to the enemy base.",
-      "description": "Blitz Coop vs AI.\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/WIP/FR-Fort,/Game/RestrictedAssets/Maps/WIP/FR-MeltDown,/Game/RestrictedAssets/Maps/WIP/FR-Loh",
-      "defaultMap": "",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/WIP/FR-Fort",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Loh"
-      ],
-      "customMapList": [],
-      "maxPlayers": 5,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTFlagRunGame",
-      "gameOptions": "?VSAI=1",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 4,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "DEATHMATCH",
-      "categories": [
-        "Featured"
-      ],
-      "title": "Deathmatch",
-      "toolTip": "Standard free-for-all Deathmatch.",
-      "description": "Standard free-for-all deathmatch.\n\n<UT.Hub.RulesText_Small>TimeLimit : %TimeLimit% minutes</>\n<UT.Hub.RulesText_Small>Maximum players : %MaxPlayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/DM-Outpost23,/Game/RestrictedAssets/Maps/DM-Chill,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Lea/DM-Lea,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/RestrictedAssets/Maps/WIP/DM-Sand,/Game/RestrictedAssets/Maps/DM-BioTower,/Game/RestrictedAssets/Maps/WIP/DM-Spacer,/Game/RestrictedAssets/Maps/WIP/DM-Cannon,/Game/RestrictedAssets/Maps/WIP/DM-Deadfall,/Game/RestrictedAssets/Maps/WIP/DM-Focus,/Game/RestrictedAssets/Maps/WIP/DM-NickTest1,/Game/RestrictedAssets/Maps/WIP/DM-Solo,/Game/RestrictedAssets/Maps/WIP/DM-Decktest,/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "defaultMap": "/Game/RestrictedAssets/Maps/DM-Chill",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/DM-Chill",
-        "/Game/RestrictedAssets/Maps/DM-Outpost23",
-        "/Game/RestrictedAssets/Maps/DM-Underland"
-      ],
-      "customMapList": [],
-      "maxPlayers": 8,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_DM.GB_DM'",
-      "gameMode": "/Script/UnrealTournament.UTDMGameMode",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?mutator=WeaponSkins",
-      "requiredPackages": [],
-      "bTeamGame": false,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "Siege",
-      "categories": [
-        "Featured"
-      ],
-      "title": "Siege",
-      "toolTip": "Prototype PVE mode.  Defend your base against hordes of incoming enemies trying to deliver their flag.",
-      "description": "PROTOTYPE PVE mode.  Defend your base against hordes of incoming enemies trying to deliver their flag..\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/WIP/FR-Fort,/Game/RestrictedAssets/Maps/WIP/FR-MeltDown,/Game/RestrictedAssets/Maps/WIP/FR-Loh",
-      "defaultMap": "",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/WIP/FR-Fort",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
-        "/Game/RestrictedAssets/Maps/WIP/FR-Loh"
-      ],
-      "customMapList": [],
-      "maxPlayers": 5,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTFlagRunPvEGame",
-      "gameOptions": "",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 5,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "CTF",
-      "categories": [
-        "Classic"
-      ],
-      "title": "Capture the Flag",
-      "toolTip": "Capture the Flag.",
-      "description": "Capture the Flag, with guns.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes with halftime</>\n<UT.Hub.RulesText_Small>Mercy Rule : On</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/CTF-TitanPass,/Game/RestrictedAssets/Maps/CTF-Face,/Game/EpicInternal/Pistola/CTF-Pistola,/Game/EpicInternal/Polaris/CTF-Polaris,/Game/RestrictedAssets/Maps/WIP/CTF-Blank,/Game/RestrictedAssets/Maps/WIP/CTF-Quick,/Game/RestrictedAssets/Maps/WIP/CTF-Plaza,/Game/RestrictedAssets/Maps/WIP/CTF-BigRock,/Game/RestrictedAssets/Maps/WIP/CTF-Volcano",
-      "defaultMap": "/Game/RestrictedAssets/Maps/CTF-TitanPass",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/CTF-TitanPass",
-        "/Game/RestrictedAssets/Maps/CTF-Face"
-      ],
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "TDM",
-      "categories": [
-        "Classic"
-      ],
-      "title": "Team Deathmatch",
-      "toolTip": "Red versus blue team deathmatch.",
-      "description": "Red versus blue team deathmatch.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/DM-Outpost23,/Game/RestrictedAssets/Maps/DM-Underland,/Game/RestrictedAssets/Maps/DM-Chill,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/EpicInternal/Lea/DM-Lea,/Game/RestrictedAssets/Maps/WIP/DM-Sand,/Game/RestrictedAssets/Maps/WIP/DM-Spacer,/Game/RestrictedAssets/Maps/WIP/DM-Cannon,/Game/RestrictedAssets/Maps/WIP/DM-Deadfall,/Game/RestrictedAssets/Maps/WIP/DM-Temple,/Game/RestrictedAssets/Maps/WIP/DM-Focus,/Game/RestrictedAssets/Maps/WIP/DM-NickTest1,/Game/RestrictedAssets/Maps/WIP/DM-Solo,/Game/RestrictedAssets/Maps/WIP/DM-Decktest,/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "defaultMap": "/Game/RestrictedAssets/Maps/DM-Chill",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "BIGCTF",
-      "categories": [
-        "Classic"
-      ],
-      "title": "Big CTF",
-      "toolTip": "Capture the Flag with large teams.",
-      "description": "Capture the Flag with large teams.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes with halftime</>\n<UT.Hub.RulesText_Small>Mercy Rule : On</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": ",/Game/RestrictedAssets/Maps/CTF-Face,/Game/RestrictedAssets/Maps/CTF-TitanPass,/Game/RestrictedAssets/Maps/WIP/CTF-Volcano,/Game/RestrictedAssets/Maps/WIP/CTF-BigRock,/Game/RestrictedAssets/Maps/WIP/CTF-Dam",
-      "defaultMap": "/Game/RestrictedAssets/Maps/CTF-Face",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 20,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_LargeCTF.GB_LargeCTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "CompCTF",
-      "categories": [
-        "Competitive"
-      ],
-      "title": "Competitive CTF",
-      "toolTip": "Capture the Flag with competition rules.",
-      "description": "Capture the Flag, with guns.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes with halftime</>\n<UT.Hub.RulesText_Small>Mercy Rule : Off</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/CTF-TitanPass,/Game/RestrictedAssets/Maps/CTF-Face,/Game/EpicInternal/Pistola/CTF-Pistola,/Game/EpicInternal/Polaris/CTF-Polaris,/Game/RestrictedAssets/Maps/WIP/CTF-Blank,/Game/RestrictedAssets/Maps/WIP/CTF-Quick,/Game/RestrictedAssets/Maps/WIP/CTF-Plaza,/Game/RestrictedAssets/Maps/WIP/CTF-BigRock,/Game/RestrictedAssets/Maps/WIP/CTF-Volcano",
-      "defaultMap": "/Game/RestrictedAssets/Maps/CTF-TitanPass",
-      "quickPlayMaps": [
-        "/Game/RestrictedAssets/Maps/CTF-TitanPass"
-      ],
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?RequireReady=1?MercyScore=0",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": true,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "SHOWDOWN",
-      "categories": [
-        "Competitive"
-      ],
-      "title": "1v1 Showdown",
-      "toolTip": "New School one vs one test of deathmatch skill.",
-      "description": "New School one vs one test of deathmatch skill.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minute rounds</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/WIP/DM-ASDF,/Game/RestrictedAssets/Maps/DM-Chill,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Lea/DM-Lea,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/RestrictedAssets/Maps/WIP/DM-Solo",
-      "defaultMap": "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 2,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "/Script/UnrealTournament.UTShowdownGame",
-      "gameOptions": "?Timelimit=2?GoalScore=5?RequireFull=1",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": true,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "TEAMSHOWDOWN",
-      "categories": [
-        "Competitive"
-      ],
-      "title": "Showdown",
-      "toolTip": "Red versus blue team showdown.",
-      "description": "Red versus blue team showdown.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minute rounds</>\n<UT.Hub.RulesText_Small>Scoring : First to %goalscore% wins</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/DM-Chill,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/EpicInternal/Lea/DM-Lea,/Game/RestrictedAssets/Maps/WIP/DM-Sand,/Game/RestrictedAssets/Maps/WIP/DM-Spacer,/Game/RestrictedAssets/Maps/WIP/DM-Cannon,/Game/RestrictedAssets/Maps/WIP/DM-Temple,/Game/RestrictedAssets/Maps/WIP/DM-Focus,/Game/RestrictedAssets/Maps/WIP/DM-Decktest,/Game/RestrictedAssets/Maps/WIP/DM-ASDF,/Game/RestrictedAssets/Maps/WIP/DM-Solo",
-      "defaultMap": "/Game/RestrictedAssets/Maps/DM-Chill",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 6,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Script/UnrealTournament.UTTeamShowdownGame",
-      "gameOptions": "?TimeLimit=2?GoalScore=5",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "",
-      "categories": [],
-      "title": "",
-      "toolTip": "",
-      "description": "",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "",
-      "defaultMap": "",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 0,
-      "displayTexture": "",
-      "gameMode": "",
-      "gameOptions": "",
-      "requiredPackages": [],
-      "bTeamGame": false,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "DUEL",
-      "categories": [
-        "Competitive"
-      ],
-      "title": "Duel",
-      "toolTip": "One vs one test of deathmatch skill.",
-      "description": "One vs one test of deathmatch skill.\n\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes</>\n<UT.Hub.RulesText_Small>Maximum players: %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/WIP/DM-ASDF,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Lea/DM-Lea,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/RestrictedAssets/Maps/WIP/DM-Solo,/Game/RestrictedAssets/Maps/WIP/DM-Decktest",
-      "defaultMap": "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 2,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "/Script/UnrealTournament.UTDuelGame",
-      "gameOptions": "?TimeLimit=10?GoalScore=0",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": true,
-      "optionFlags": 65535,
-      "bHideFromUI": false,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "iDM",
-      "categories": [
-        "Instagib"
-      ],
-      "title": "Instagib DM",
-      "toolTip": "One hit one kill Deathmatch.",
-      "description": "One hit one kill Deathmatch.\n\n<UT.Hub.RulesText_Small>Mutators : Instagib</>\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/DM-Outpost23,/Game/RestrictedAssets/Maps/DM-Chill,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/RestrictedAssets/Maps/WIP/DM-Sand,/Game/RestrictedAssets/Maps/WIP/DM-Spacer,/Game/RestrictedAssets/Maps/WIP/DM-Cannon,/Game/RestrictedAssets/Maps/WIP/DM-Deadfall,/Game/RestrictedAssets/Maps/WIP/DM-Temple,/Game/RestrictedAssets/Maps/WIP/DM-Focus,/Game/RestrictedAssets/Maps/WIP/DM-NickTest1,/Game/RestrictedAssets/Maps/WIP/DM-Solo,/Game/RestrictedAssets/Maps/WIP/DM-Decktest,/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "defaultMap": "/Game/RestrictedAssets/Maps/DM-Chill",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_InstagibDM.GB_InstagibDM'",
-      "gameMode": "/Script/UnrealTournament.UTDMGameMode",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?Mutator=Instagib",
-      "requiredPackages": [],
-      "bTeamGame": false,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "iTDM",
-      "categories": [
-        "Instagib"
-      ],
-      "title": "Instagib TDM",
-      "toolTip": "One hit one kill Team Deathmatch.",
-      "description": "One hit one kill Team Deathmatch.\n\n<UT.Hub.RulesText_Small>Mutators : Instagib</>\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/DM-Outpost23,/Game/RestrictedAssets/Maps/DM-Chill,/Game/RestrictedAssets/Maps/DM-Underland,/Game/EpicInternal/Unsaved/DM-Unsaved,/Game/EpicInternal/Backspace/DM-Backspace,/Game/EpicInternal/Salt/DM-Salt,/Game/EpicInternal/Batrankus/DM-Batrankus,/Game/RestrictedAssets/Maps/WIP/DM-Sand,/Game/RestrictedAssets/Maps/WIP/DM-Spacer,/Game/RestrictedAssets/Maps/WIP/DM-Cannon,/Game/RestrictedAssets/Maps/WIP/DM-Deadfall,/Game/RestrictedAssets/Maps/WIP/DM-Temple,/Game/RestrictedAssets/Maps/WIP/DM-Focus,/Game/RestrictedAssets/Maps/WIP/DM-NickTest1,/Game/RestrictedAssets/Maps/WIP/DM-Solo,/Game/RestrictedAssets/Maps/WIP/DM-Decktest,/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-      "defaultMap": "/Game/RestrictedAssets/Maps/DM-Chill",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 20,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_InstagibDuel.GB_InstagibDuel'",
-      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?Mutator=Instagib",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "iCTF",
-      "categories": [
-        "Instagib"
-      ],
-      "title": "Instagib CTF",
-      "toolTip": "Instagib CTF",
-      "description": "Capture the Flag with Instagib rifles.\n\n<UT.Hub.RulesText_Small>Mutators : Instagib</>\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% minutes with halftime</>\n<UT.Hub.RulesText_Small>Mercy Rule : On</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/CTF-TitanPass,/Game/RestrictedAssets/Maps/CTF-Face,/Game/EpicInternal/Pistola/CTF-Pistola,/Game/EpicInternal/Polaris/CTF-Polaris,/Game/RestrictedAssets/Maps/WIP/CTF-Blank,/Game/RestrictedAssets/Maps/WIP/CTF-BigRock,/Game/RestrictedAssets/Maps/WIP/CTF-Volcano,/Game/RestrictedAssets/Maps/WIP/CTF-Quick,/Game/RestrictedAssets/Maps/WIP/CTF-Plaza",
-      "defaultMap": "/Game/RestrictedAssets/Maps/CTF-TitanPass",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 20,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_InstagibCTF.GB_InstagibCTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?Mutator=Instagib",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "uniqueTag": "iCTF+T",
-      "categories": [
-        "Instagib"
-      ],
-      "title": "Translocator iCTF",
-      "toolTip": "Translocator iCTF",
-      "description": "Capture the Flag with Instagib rifles and Translocators.\n\n<UT.Hub.RulesText_Small>Mutators : Instagib</>\n<UT.Hub.RulesText_Small>TimeLimit : %timelimit% with halftime</>\n<UT.Hub.RulesText_Small>Mercy Rule : On</>\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
-      "mapPrefixes": [],
-      "maxMapsInList": 16,
-      "epicMaps": "/Game/RestrictedAssets/Maps/CTF-TitanPass,/Game/RestrictedAssets/Maps/CTF-Face,/Game/EpicInternal/Pistola/CTF-Pistola,/Game/EpicInternal/Polaris/CTF-Polaris,/Game/RestrictedAssets/Maps/WIP/CTF-Blank,/Game/RestrictedAssets/Maps/WIP/CTF-BigRock,/Game/RestrictedAssets/Maps/WIP/CTF-Volcano,/Game/RestrictedAssets/Maps/WIP/CTF-Quick,/Game/RestrictedAssets/Maps/WIP/CTF-Plaza",
-      "defaultMap": "/Game/RestrictedAssets/Maps/CTF-TitanPass",
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 20,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_InstagibCTF.GB_InstagibCTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?Mutator=Instagib,AddTrans",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": true,
-      "epicForceUIVisibility": 0
-    },
-    {
-      "utcc": {
-        "info": "This ruleset has been generated by UTCC, the platform to find custom content.",
-        "link": "https://utcc.unrealpugs.com/rulesets/190",
-        "creator": "UnrealPUGs",
-        "description": "CTF Salvation Cup-Rulesets",
-        "generated": "2019/03/27 03:23:09",
-        "ignoredContent": []
-      },
-      "uniqueTag": "sc5vs5ctf",
-      "categories": [
-        "Salvation Cup"
-      ],
-      "title": "[CUP/UT+] 5vs5 CTF",
-      "toolTip": "5vs5 CTF/UT+",
-      "description": "5vs5 Capture the Flag using the Salvation Cup ruleset",
-      "mapPrefixes": [],
-      "maxMapsInList": 0,
-      "quickPlayMaps": [],
-      "customMapList": [
-        "/Game/AreaN23/CTF-AreaN23",
-        "/Game/Maps/CTF-Archanastre-v5",
-        "/Game/CTF-Shadow-Textured",
-        "/Game/Azcanize/CTF-Azcanize",
-        "/Game/UT+/CTF-TitanPass_Shell",
-        "/Game/Cynosure/CTF-Cynosure2",
-        "/Game/GrendelKeep/CTF-Grendelkeep_shell"
-      ],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?MercyScore=0?MapVoteTime=120?BalanceTeams=0?TimeLimit=20?MustBeReady=0?ForceNoBots=1?SpawnProtection=0?ServerPassword=cup?mutator=WeaponSkins,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,MutHitsounds,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,UTPlus,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C,MutatorAutoRcon",
-      "requiredPackages": [],
-      "bTeamGame": false,
-      "bCompetitiveMatch": false,
       "bHideFromUI": false
     }
   ]
