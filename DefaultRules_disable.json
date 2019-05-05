@@ -13,6 +13,7 @@
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
+        "/Game/Maps/CTF-Archanastre-v5",
         "/Game/AreaN23/CTF-AreaN23",
         "/Game/Azcanize/CTF-Azcanize",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-CE100-UT99/CTF-Bleak-v4",
@@ -31,8 +32,9 @@
         "/Game/RestrictedAssets/Maps/CTF-Runoff_shell_v1_2",
         "/Game/CTF-Shadow-Textured",
         "/Game/Terra/CTF-Terra-v1",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-TitanPass_Shell",
+        "/Game/UT+/CTF-TitanPass_Shell",
         "/Game/Maps/CTF-VaultCity_FPS",
+        "/Game/RestrictedAssets/Maps/Vengeance99/CTF-Vengeance_v06",
         "/Game/Virility/CTF-Virility_CE"
       ],
       "maxPlayers": 10,
@@ -374,7 +376,8 @@
       "maxMapsInList": 25,
       "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
       "customMapList": [
-        "/Game/Abreez/CTF-Abreez-SE",
+        "/Game/UT99/Maps/CTF-Abreez-SE",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-ATH/CTF-ATH",
         "/Game/UT99/Maps/CTF-RGI-Bridge",
         "/Game/CTF-Collateral",
         "/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4",
@@ -382,6 +385,7 @@
         "/Game/UT99/Maps/CTF-RGI-EliteArenaV2",
         "/Game/CTF-Inca",
         "/Game/UT99/Maps/CTF-RGI-Romra",
+        "/Game/UT99/Maps/CTF-RGI-Thorns",
         "/Game/UT99/Maps/CTF-RGI-ThornsV2",
         "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2"
       ],
