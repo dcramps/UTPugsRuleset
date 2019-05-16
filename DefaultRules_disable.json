@@ -23,7 +23,7 @@
         "/Game/RestrictedAssets/Maps/WIP/CTF-Gataka-SE/CTF-Gataka-SE-UT99",
         "/Game/Glacier/CTF-Glacier-v1",
         "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-		"/Game/UT99/Maps/CTF-Lucius",
+        "/Game/UT99/Maps/CTF-Lucius",
         "/Game/RestrictedAssets/Maps/WIP/CTF-November-UT99/CTF-November-UT99_metal-4",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Orbital-UT99/CTF-Orbital-SE-UT99_metal-4",
         "/Game/EpicInternal/Pistola/CTF-Pistola-Shell",
@@ -163,12 +163,12 @@
     },
     {
       "uniqueTag": "UT+ Tournament (WB)",
-      "title": "10 Min Match (WB)",
+      "title": "Qualifiers",
       "categories": [
         "World Duel Cup"
       ],
       "tooltip": "",
-      "description": "World Duel Cup: Winners Bracket",
+      "description": "World Duel Cup: Qualifiers",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
       "gameMode": "Duel",
       "bHideFromUI": false,
@@ -181,42 +181,13 @@
       "maxMapsInList": 0,
       "mapPrefixes": [],
       "customMapList": [
-        "/Game/DM-Coma/Maps/DM-Coma_A015",
-        "/Game/Maps/DM-Fervor/DM-Fervor_V8",
-        "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
+        "/Game/Ironic/DM-Alanis",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-        "/Game/Maps/DM-Deep-03g",
-        "/Game/Maps/DM-Erase/DM-EraseV2_a03"
-      ]
-    },
-    {
-      "uniqueTag": "UT+ Tournament (LB)",
-      "title": "5 Min Match (LB)",
-      "categories": [
-        "World Duel Cup"
-      ],
-      "tooltip": "",
-      "description": "World Duel Cup: Losers Bracket",
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "Duel",
-      "bHideFromUI": false,
-      "bCompetitiveMatch": false,
-      "bTeamGame": true,
-      "maxPlayers": 2,
-      "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=5?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "optionFlags": 65535,
-      "maxMapsInList": 0,
-      "mapPrefixes": [],
-      "customMapList": [
+        "/Game/DM-BoneBone",
         "/Game/DM-Coma/Maps/DM-Coma_A015",
-        "/Game/Maps/DM-Fervor/DM-Fervor_V8",
-        "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
-        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
-        "/Game/Maps/DM-Erase/DM-EraseV2_a03"
+        "/Game/Maps/DM-Erase/DM-EraseV2_a03",
+        "/Game/EpicInternal/Lea/DM-Lea"
       ]
     },
     {
@@ -379,7 +350,7 @@
         "/Game/RestrictedAssets/Maps/WIP/CTF-ATH/CTF-ATH",
         "/Game/UT99/Maps/CTF-RGI-Bridge",
         "/Game/UT99/Maps/CTF-300k-Cadere",
-		"/Game/UT99/Maps/CTF-300k-CassiusTemple",
+        "/Game/UT99/Maps/CTF-300k-CassiusTemple",
         "/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4_v2",
         "/Game/UT99/Maps/CTF-Denise",
         "/Game/CTF-Inca",
