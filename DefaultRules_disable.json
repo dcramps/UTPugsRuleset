@@ -37,7 +37,7 @@
         "/Game/Maps/CTF-VaultCity_FPS",
         "/Game/RestrictedAssets/Maps/Vengeance99/CTF-Vengeance_v07",
         "/Game/Virility/CTF-Virility_CE",
-        "/Game/Map/CTF-Bleak_2019"
+        "/Game/Maps/CTF-Bleak_2019"
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
