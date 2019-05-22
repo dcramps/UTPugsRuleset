@@ -381,7 +381,7 @@
       "maxMapsInList": 25,
       "defaultMap": "/Game/Maps/CTF-w00tabulousFixed-UT99/CTF-W00t-R3M2",
       "customMapList": [
-        "/Game/Content/RestrictedAssets/Maps/WIP/CTF-1on1-Hourglass/CTF-1on1-Hourglass-V3",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-1on1-Hourglass/CTF-1on1-Hourglass-V3",
         "/Game/UT99/Maps/CTF-Abreez-SE",
         "/Game/RestrictedAssets/Maps/WIP/CTF-ATH/CTF-ATH",
         "/Game/UT99/Maps/CTF-300k-Cadere",
