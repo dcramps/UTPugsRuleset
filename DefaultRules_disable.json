@@ -206,7 +206,9 @@
         "/Game/AreaN23/CTF-AreaN23",
         "/Game/Azcanize/CTF-Azcanize",
         "/Game/GrendelKeep/CTF-Grendelkeep_shell",
+        "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
         "/Game/CTF-Shadow-Textured",
+        "/Game/Terra/CTF-Terra-v1",
         "/Game/UT+/CTF-TitanPass_Shell",
         "/Game/Maps/CTF-VaultCity_FPS",
         "/Game/Virility/CTF-Virility_CE"
@@ -214,7 +216,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
         "/Game/MUGA/BP_MUGA-WindowsNoEditor",
