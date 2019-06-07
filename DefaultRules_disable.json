@@ -385,10 +385,8 @@
       "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/CTF-1on1-Hourglass/CTF-1on1-Hourglass-V3",
         "/Game/UT99/Maps/CTF-Abreez-SE",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-ATH/CTF-ATH",
         "/Game/UT99/Maps/CTF-300k-Cadere",
         "/Game/UT99/Maps/CTF-300k-CassiusTemple",
-        "/Game/UT99/Maps/CTF-300k-Nexus",
         "/Game/PaterAssets/MyMaps/Control/CTF-Control_UT4_v2",
         "/Game/UT99/Maps/CTF-Denise",
         "/Game/CTF-Inca",
@@ -400,10 +398,9 @@
       "maxPlayers": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Game/phroxen/GameMode/CTFN.CTFN_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,CustomHud,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,Instagib,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
-        "MutTeamSkins",
-        "CustomHud"
+        "MutTeamSkins"
       ],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
