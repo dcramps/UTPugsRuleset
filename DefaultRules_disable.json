@@ -42,7 +42,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?ServerPassword=pug?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
         "/Game/MUGA/BP_MUGA-WindowsNoEditor",
@@ -82,7 +82,7 @@
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?ServerPassword=pug?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C"
       ],
@@ -119,7 +119,7 @@
       "maxPlayers": 8,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?ServerPassword=pug?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C"
       ],
@@ -143,7 +143,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?ServerPassword=pug?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
