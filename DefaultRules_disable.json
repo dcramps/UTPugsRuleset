@@ -95,7 +95,7 @@
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
+      "gameMode": "/Game/phroxen/GameMode/CTFPlus.CTFPlus_C",
       "gameOptions": "?ServerPassword=pug?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,MutHitsounds,Global_StatSQL-v2,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "UTPlus",
