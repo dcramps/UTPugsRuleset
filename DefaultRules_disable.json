@@ -116,7 +116,7 @@
       "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
       "customMapList": [
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
-        "/Game/RestrictedAssets/Maps/DM-Cheops-UT4",
+        "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/PaterAssets/MyMaps/Elucidation/DM-Elucidation_UT4_Shell",
@@ -153,7 +153,7 @@
       "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
       "customMapList": [
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
-        "/Game/RestrictedAssets/Maps/DM-Cheops-UT4",
+        "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/PaterAssets/MyMaps/Elucidation/DM-Elucidation_UT4_Shell",
