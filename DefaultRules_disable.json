@@ -197,7 +197,8 @@
       "maxMapsInList": 0,
       "mapPrefixes": [],
       "customMapList": [
-        "/Game/Ironic/DM-Alanis",
+        "/Game/dc/Ironic/DM-
+	      ",
         "/Game/DM-BoneBone_Textured",
         "/Game/DM-Coma/Maps/DM-Coma_A015",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
@@ -231,7 +232,7 @@
       "maxMapsInList": 0,
       "mapPrefixes": [],
       "customMapList": [
-        "/Game/Ironic/DM-Alanis",
+        "/Game/dc/Ironic/DM-Alanis",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/DM-BoneBone_Textured",
         "/Game/DM-Coma/Maps/DM-Coma_A015",
