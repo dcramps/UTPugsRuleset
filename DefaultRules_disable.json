@@ -241,43 +241,6 @@
       ]
     },
     {
-      "uniqueTag": "OMEGA_CTF",
-      "categories": [
-        "Omega CTF Cup"
-      ],
-      "title": "Omega CTF Cup",
-      "tooltip": "Capture the Flag - Omega Cup",
-      "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
-      "mapPrefixes": [],
-      "maxMapsInList": 0,
-      "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-      "customMapList": [
-        "/Game/AreaN23/CTF-AreaN23",
-        "/Game/Azcanize/CTF-Azcanize",
-        "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-        "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
-        "/Game/CTF-Shadow-Textured",
-        "/Game/Terra/CTF-Terra-v1",
-        "/Game/UT+/CTF-TitanPass_Shell",
-        "/Game/Maps/CTF-VaultCity_FPS",
-        "/Game/Virility/CTF-Virility_CE"
-      ],
-      "maxPlayers": 10,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=0?MaxSpectators=2?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "requiredPackages": [
-        "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
-        "/Game/MUGA/BP_MUGA-WindowsNoEditor",
-        "UTPlus",
-        "/Game/RestrictedAssets/Blueprints/Mutator_Mutator_WeaponSkins.Mutator_Mutator_WeaponSkins_C"
-      ],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "optionFlags": 65535,
-      "bHideFromUI": false
-    },
-    {
       "uniqueTag": "UT+TDM2v2",
       "categories": [
         "Competitive"
