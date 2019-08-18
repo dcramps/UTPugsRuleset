@@ -443,6 +443,52 @@
       "bCompetitiveMatch": false,
       "optionFlags": 65535,
       "bHideFromUI": false
+    },
+    {
+      "uniqueTag": "ROCKET_GIB",
+      "categories": [
+        "Rocket Gib"
+      ],
+      "title": "Rocket Gib",
+      "toolTip": "GET FUCKED!",
+      "description": "Ridiculous DM",
+      "mapPrefixes": [
+        "DM"
+      ],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [],
+      "maxPlayers": 10,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_DM.GB_DM'",
+      "gameMode": "/Game/dc/RocketGib/RocketGib",
+      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?ForceNoBots=1",
+      "requiredPackages": [],
+      "bTeamGame": false,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
+    },
+    {
+      "uniqueTag": "TEAM_ROCKET_GIB",
+      "categories": [
+        "Rocket Gib"
+      ],
+      "title": "Team Rocket Gib",
+      "toolTip": "GET FUCKED!",
+      "description": "Ridiculous DM",
+      "mapPrefixes": [
+        "DM"
+      ],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [],
+      "maxPlayers": 8,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/dc/RocketGib/RocketGib",
+      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?ForceNoBots=1",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     }
   ]
 }
