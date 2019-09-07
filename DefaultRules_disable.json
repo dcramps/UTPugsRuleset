@@ -212,6 +212,37 @@
       ]
     },
     {
+      "uniqueTag": "UTPL Duel",
+      "title": "Duel",
+      "categories": [
+        "UT+ Pickup Games"
+      ],
+      "tooltip": "One versus One, UTPL competitive rules. See stats at https://ut4pugs.us/match_history",
+      "description": "One versus One, test of deathmatch skill.\n\n<UT.Hub.RulesText_Small>Time limit: 10 minutes</>",
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
+      "gameMode": "Duel",
+      "bHideFromUI": false,
+      "bCompetitiveMatch": false,
+      "bTeamGame": true,
+      "maxPlayers": 2,
+      "minPlayersToStart": 2,
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "optionFlags": 65535,
+      "maxMapsInList": 0,
+      "mapPrefixes": [],
+      "customMapList": [
+        "/Game/DM-Coma/Maps/DM-Coma_A015",
+        "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
+        "/Game/Maps/DM-Fervor/DM-Fervor_V8",
+        "/Game/EpicInternal/Lea/DM-Lea",
+        "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
+        "/Game/Maps/DM-Deep-03g",
+        "/Game/Maps/DM-Erase/DM-EraseV2_a03"
+      ]
+    },
+    
+    {
       "uniqueTag": "PUG_TDM2",
       "categories": [
         "UT+ Pickup Games"
