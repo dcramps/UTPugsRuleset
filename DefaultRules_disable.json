@@ -237,7 +237,7 @@
       "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,AddImpactHammer,HiddenWeaponsUTPL,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
       "requiredPackages" : [ ],
       "bTeamGame" : true,
-      "bCompetitiveMatch" : true,
+      "bCompetitiveMatch" : false,
       "bHideFromUI" : false
     },
     {
@@ -273,7 +273,7 @@
       "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,HiddenWeaponsUTPL,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
       "requiredPackages" : [ ],
       "bTeamGame" : true,
-      "bCompetitiveMatch" : true,
+      "bCompetitiveMatch" : false,
       "bHideFromUI" : false
     },
       
@@ -309,7 +309,7 @@
       "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,HiddenWeaponsUTPL,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
       "requiredPackages" : [ ],
       "bTeamGame" : true,
-      "bCompetitiveMatch" : true,
+      "bCompetitiveMatch" : false,
       "bHideFromUI" : false
     },      
     {
