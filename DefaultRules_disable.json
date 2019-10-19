@@ -613,6 +613,29 @@
       "bTeamGame": true,
       "bCompetitiveMatch": false,
       "bHideFromUI": false
+    },
+    {
+      "uniqueTag": "NST",
+      "categories": [
+        "TEST"
+      ],
+      "title": "NetSpeedTest",
+      "toolTip": "Hi Zoh",
+      "description": "TDM with NetSpeedTest as the only mutator",
+      "mapPrefixes": [
+        "DM"
+      ],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [],
+      "maxPlayers": 6,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=NetSpeedTest",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     }
   ]
 }
