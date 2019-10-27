@@ -208,7 +208,8 @@
         "/Game/RestrictedAssets/Maps/WIP/DM-BoneCrusher_MC2",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
-        "/Game/Maps/DM-Erase/DM-EraseV2_a03"
+        "/Game/Maps/DM-Erase/DM-EraseV2_a03",
+        "/Game/RestrictedAssets/Maps/DM-1on1-Roughinery"
       ]
     },
     {
@@ -397,7 +398,7 @@
         "World Duel Cup"
       ],
       "tooltip": "",
-      "description": "World Duel Cup: Qualifiers",
+      "description": "World Duel Cup",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
       "gameMode": "Duel",
       "bHideFromUI": false,
@@ -636,6 +637,54 @@
       "bTeamGame": true,
       "bCompetitiveMatch": false,
       "bHideFromUI": false
+    },
+    {
+      "uniqueTag": "FlagRun",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "FlagRunVSAI",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "DEATHMATCH",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "Siege",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "CTF",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "TDM",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "BIGCTF",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "CompCTF",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "SHOWDOWN",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "TEAMSHOWDOWN",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "DUEL",
+      "bHideFromUI": true
+    },
+    {
+      "uniqueTag": "iCTF",
+      "bHideFromUI": true
     }
   ]
 }
