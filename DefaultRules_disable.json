@@ -42,7 +42,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,Mutator_WeaponSkins,UTPlusMovement,MutHitsounds,Global_StatSQL-v2,CustomHUD,NoPickupTimerMutator,NoSpawnProtectionMutator,MutCaptureTime,MutTeamSkins,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
         "/Game/MUGA/BP_MUGA-WindowsNoEditor",
@@ -96,7 +96,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Game/phroxen/GameMode/CTFPlus.CTFPlus_C",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -131,7 +131,7 @@
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C"
       ],
@@ -168,7 +168,7 @@
       "maxPlayers": 8,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,WeaponSkins,Spraymutz,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C"
       ],
@@ -192,7 +192,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -227,7 +227,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -254,11 +254,11 @@
         "UTPL"
       ],
       "tooltip": "One versus One, UTPL competitive rules. See stats at https://ut4pugs.us/match_history",
-            "description" : "Raise Your Edge Gaming's Duel set for UT Pro-League season 1",
-      "mapPrefixes" : [ ],
-      "maxMapsInList" : 0,
-      "quickPlayMaps" : [ ],
-      "customMapList" : [
+      "description": "Raise Your Edge Gaming's Duel set for UT Pro-League season 1",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
         "/Game/DM-Coma/Maps/DM-Coma_A015",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
@@ -267,34 +267,34 @@
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
         "/Game/EpicInternal/Lea/DM-Lea"
       ],
-      "maxPlayers" : 2,
-      "displayTexture" : "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode" : "/Script/UnrealTournament.UTDuelGame",
-      "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
-      "requiredPackages" : [ ],
-      "bTeamGame" : true,
-      "bCompetitiveMatch" : false,
-      "bHideFromUI" : false
+      "maxPlayers": 2,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
+      "gameMode": "/Script/UnrealTournament.UTDuelGame",
+      "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     },
     {
-      "utcc" : {
-        "info" : "This ruleset has been generated by UTCC, the platform to find custom content.",
-        "link" : "https://utcc.unrealpugs.com/rulesets/289",
-        "creator" : "{SoW}DeathMask",
-        "generated" : "2019/09/07 19:04:57",
-        "ignoredContent" : [ ]
+      "utcc": {
+        "info": "This ruleset has been generated by UTCC, the platform to find custom content.",
+        "link": "https://utcc.unrealpugs.com/rulesets/289",
+        "creator": "{SoW}DeathMask",
+        "generated": "2019/09/07 19:04:57",
+        "ignoredContent": []
       },
-      "uniqueTag" : "UTPL2TDM",
-      "categories" : [
+      "uniqueTag": "UTPL2TDM",
+      "categories": [
         "UTPL"
       ],
-      "title" : "UTPL 2TDM",
-      "toolTip" : "",
-      "description" : "Raise Your Edge Gaming's 2v2 Team DeathMatch set for UT Pro-League season 1",
-      "mapPrefixes" : [ ],
-      "maxMapsInList" : 0,
-      "quickPlayMaps" : [ ],
-      "customMapList" : [
+      "title": "UTPL 2TDM",
+      "toolTip": "",
+      "description": "Raise Your Edge Gaming's 2v2 Team DeathMatch set for UT Pro-League season 1",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/DM-Focus",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
@@ -303,27 +303,27 @@
         "/Game/Maps/DM-Codex-UTPL",
         "/Game/dc/DM-Solo-NoDoors"
       ],
-      "maxPlayers" : 4,
-      "displayTexture" : "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode" : "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
-      "requiredPackages" : [ ],
-      "bTeamGame" : true,
-      "bCompetitiveMatch" : false,
-      "bHideFromUI" : false
+      "maxPlayers": 4,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
+      "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     },
     {
-      "uniqueTag" : "UTPL3TDM",
-      "categories" : [
+      "uniqueTag": "UTPL3TDM",
+      "categories": [
         "UTPL"
       ],
-      "title" : "UTPL 3TDM",
-      "toolTip" : "",
-      "description" : "Raise Your Edge Gaming's 3v3 Team DeathMatch set for UT Pro-League season 1",
-      "mapPrefixes" : [ ],
-      "maxMapsInList" : 0,
-      "quickPlayMaps" : [ ],
-      "customMapList" : [
+      "title": "UTPL 3TDM",
+      "toolTip": "",
+      "description": "Raise Your Edge Gaming's 3v3 Team DeathMatch set for UT Pro-League season 1",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/DM-Focus",
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
@@ -332,34 +332,34 @@
         "/Game/Maps/DM-Codex-UTPL",
         "/Game/dc/DM-Solo-NoDoors"
       ],
-      "maxPlayers" : 6,
-      "displayTexture" : "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode" : "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
-      "requiredPackages" : [ ],
-      "bTeamGame" : true,
-      "bCompetitiveMatch" : false,
-      "bHideFromUI" : false
+      "maxPlayers": 6,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
+      "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     },
     {
-      "utcc" : {
-        "info" : "This ruleset has been generated by UTCC, the platform to find custom content.",
-        "link" : "https://utcc.unrealpugs.com/rulesets/290",
-        "creator" : "{SoW}DeathMask",
-        "generated" : "2019/09/07 19:05:02",
-        "ignoredContent" : [ ]
+      "utcc": {
+        "info": "This ruleset has been generated by UTCC, the platform to find custom content.",
+        "link": "https://utcc.unrealpugs.com/rulesets/290",
+        "creator": "{SoW}DeathMask",
+        "generated": "2019/09/07 19:05:02",
+        "ignoredContent": []
       },
-      "uniqueTag" : "UTPL4TDM",
-      "categories" : [
+      "uniqueTag": "UTPL4TDM",
+      "categories": [
         "UTPL"
       ],
-      "title" : "UTPL 4TDM",
-      "toolTip" : "",
-      "description" : "Raise Your Edge Gaming's 4v4 Team DeathMatch set for UT Pro-League season 1",
-      "mapPrefixes" : [ ],
-      "maxMapsInList" : 0,
-      "quickPlayMaps" : [ ],
-      "customMapList" : [
+      "title": "UTPL 4TDM",
+      "toolTip": "",
+      "description": "Raise Your Edge Gaming's 4v4 Team DeathMatch set for UT Pro-League season 1",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
         "/Game/RestrictedAssets/Maps/WIP/DM-Goose-b1",
         "/Game/Rankin/DM-Rankin-LE",
@@ -367,15 +367,15 @@
         "/Game/Maps/DM-Tempest",
         "/Game/RestrictedAssets/Maps/WIP/DM-Temple"
       ],
-      "maxPlayers" : 8,
-      "displayTexture" : "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode" : "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions" : "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
-      "requiredPackages" : [ ],
-      "bTeamGame" : true,
-      "bCompetitiveMatch" : false,
-      "bHideFromUI" : false
-    },      
+      "maxPlayers": 8,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
+      "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=HiddenWeaponsUTPL,/Game/NoSpawnProtectionMutator/NoSpawnProtectionMutator.NoSpawnProtectionMutator_C,AddImpactHammer,/Game/ZohStuff/CompetitivePickups/CompetitivePickups.CompetitivePickups_C,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,/Game/ZohStuff/CustomHUD/CustomHUD.CustomHUD_C,Global_StatSQL-v2,MutTeamSkins,/Game/AbsoluteHitSounds/Mutator_AbsoluteHitSounds.Mutator_AbsoluteHitSounds_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
+    },
     {
       "uniqueTag": "PUG_TDM2",
       "categories": [
@@ -394,7 +394,7 @@
       "maxPlayers": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -420,7 +420,7 @@
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -446,7 +446,7 @@
       "maxPlayers": 8,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=15?GoalScore=0?mutator=UTPlus,UTPlusMovement,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,WeaponsStayOff,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -469,7 +469,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=4?SpectatePassword=piano?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=4?SpectatePassword=piano?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -496,7 +496,7 @@
       "bHideFromUI": false,
       "bCompetitiveMatch": false,
       "bTeamGame": true,
-      "gameOptions": "?BalanceTeams=false?Mutator=UTPlus,UTPlusMovement,Global_StatSQL-v2,WeaponsStayOff,Mutator_WeaponSkins,CustomHud,MutHitsounds,MutatorStatsRecord,MutTeamskins,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BalanceTeams=false?Mutator=UTPlus,UTPlusMovement,Global_StatSQL-v2,WeaponsStayOff,Mutator_WeaponSkins,CustomHud,MutHitsounds,MutatorStatsRecord,MutTeamskins,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 18,
       "mapPrefixes": [
@@ -532,7 +532,7 @@
       "maxPlayers": 8,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/Domination/BP_Dom.BP_Dom_C",
-      "gameOptions": "?TimeLimit=15?GoalScore=350?BalanceTeams=false?Difficulty=3?ForceRespawn=0?mutator=Mutator_WeaponSkins,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C,MutHitsounds,MutTeamSkins,/Game/Domination/ShockDom.ShockDom_C,MutatorStatsRecord,MutatorAutoRcon,/Game/ParkourGrip/Mutators/CharacterBalanceBetterHitboxes.Betterhitboxes_C?BotFill=0?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=15?GoalScore=350?BalanceTeams=false?Difficulty=3?ForceRespawn=0?mutator=Mutator_WeaponSkins,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C,MutHitsounds,MutTeamSkins,/Game/Domination/ShockDom.ShockDom_C,MutatorStatsRecord,MutatorAutoRcon,/Game/ParkourGrip/Mutators/CharacterBalanceBetterHitboxes.Betterhitboxes_C,CommunityAC,SetNetSpeed?BotFill=0?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/Domination/ShockDom-WindowsNoEditor,/Game/Domination/BP_Dom-WindowsNoEditor"
       ],
@@ -561,7 +561,7 @@
       "maxPlayers": 2,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,UTPlusMovement,Instagib,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,UTPlusMovement,Instagib,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "MutTeamSkins",
         "CustomHud"
@@ -600,7 +600,7 @@
       "maxPlayers": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,UTPlusMovement,Instagib,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?BalanceTeams=false?MercyScore=0?Difficulty=3?ForceRespawn=0?Mutator=MutTeamSkins,MutHitSounds,UTPlusMovement,Instagib,Global_StatSQL-v2,MutatorAutoRcon,MutatorStatsRecord,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "MutTeamSkins"
       ],
@@ -626,7 +626,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_DM.GB_DM'",
       "gameMode": "/Game/dc/RocketGib/RocketGib.RocketGib_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=50?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=50?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": false,
       "bCompetitiveMatch": false,
@@ -649,7 +649,7 @@
       "maxPlayers": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/dc/RocketGib/TeamRocketGib.TeamRocketGib_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator?ForceNoBots=1",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -672,30 +672,7 @@
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/dc/RocketGib/TeamRocketGib.TeamRocketGib_C",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator?ForceNoBots=1",
-      "requiredPackages": [],
-      "bTeamGame": true,
-      "bCompetitiveMatch": false,
-      "bHideFromUI": false
-    },
-    {
-      "uniqueTag": "NST",
-      "categories": [
-        "TEST"
-      ],
-      "title": "NetSpeedTest",
-      "toolTip": "Hi Zoh",
-      "description": "TDM with NetSpeedTest as the only mutator",
-      "mapPrefixes": [
-        "DM"
-      ],
-      "maxMapsInList": 0,
-      "quickPlayMaps": [],
-      "customMapList": [],
-      "maxPlayers": 6,
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
-      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=NetSpeedTest",
+      "gameOptions": "?TimeLimit=10?GoalScore=0?ForceRespawn=1?mutator=UTPlusMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,WeaponSkins,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,NoSpawnProtectionMutator,CommunityAC,SetNetSpeed?ForceNoBots=1",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
