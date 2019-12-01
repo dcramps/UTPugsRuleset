@@ -26,7 +26,7 @@
         "/Game/Glacier/CTF-Glacier-v1",
         "/Game/GrendelKeep/CTF-Grendelkeep_shell",
         "/Game/Maps/CTF-Archanastre-v5",
-        "/Game/Maps/CTF-Bleak_2019"
+        "/Game/Maps/CTF-Bleak_2019",
         "/Game/Maps/CTF-VaultCity_FPS",
         "/Game/Ranel/CTF-Ranel",
         "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
@@ -41,8 +41,7 @@
         "/Game/Terra/CTF-Terra-v1",
         "/Game/UT+/CTF-TitanPass_Shell",
         "/Game/UT99/Maps/CTF-Lucius",
-        "/Game/Virility/CTF-Virility_CE",
-        
+        "/Game/Virility/CTF-Virility_CE"  
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
