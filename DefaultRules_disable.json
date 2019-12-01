@@ -12,32 +12,37 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
+        "/Game/acmes_Content/Maps/CTF-HOSH2/"
+        "/Game/acmes_Content/Maps/CTF-Omicron_Dawn"
+        "/Game/acmes_Content/Maps/CTF-Revenge"
+        "/Game/acmes_Content/Maps/CTF-Shadow",
+        "/Game/acmes_Content/Maps/CTF-SpiderCrossings"
+        "/Game/acmes_Content/Maps/CTF-TitanFall"
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
-        "/Game/Maps/CTF-Archanastre-v5",
         "/Game/AreaN23/CTF-AreaN23",
         "/Game/Azcanize/CTF-Azcanize",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-CE100-UT99/CTF-Bleak-v4",
-        "/Game/RestrictedAssets/Maps/Pater/CTF-BollWerK_UT4",
-        "/Game/Maps/CTF-Cliff/CTF-Cliff-WIP11",
         "/Game/Cynosure/CTF-Cynosure2",
-        "/Game/RestrictedAssets/Maps/WIP/CTF-Gataka-SE/CTF-Gataka-SE-UT99",
+        "/Game/EpicInternal/Pistola/CTF-Pistola-Shell",
         "/Game/Glacier/CTF-Glacier-v1",
         "/Game/GrendelKeep/CTF-Grendelkeep_shell",
-        "/Game/UT99/Maps/CTF-Lucius",
+        "/Game/Maps/CTF-Archanastre-v5",
+        "/Game/Maps/CTF-Bleak_2019"
+        "/Game/Maps/CTF-VaultCity_FPS",
+        "/Game/Ranel/CTF-Ranel",
+        "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
+        "/Game/RestrictedAssets/Maps/CTF-Runoff_shell_v1_2",
+        "/Game/RestrictedAssets/Maps/Pater/CTF-BollWerK_UT4",
+        "/Game/RestrictedAssets/Maps/Vengeance99/CTF-Vengeance_v07",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-CE100-UT99/CTF-Bleak-v4",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Gataka-SE/CTF-Gataka-SE-UT99",
         "/Game/RestrictedAssets/Maps/WIP/CTF-November-UT99/CTF-November-UT99_metal-4",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Orbital-UT99/CTF-Orbital-SE-UT99_metal-4",
-        "/Game/EpicInternal/Pistola/CTF-Pistola-Shell",
-        "/Game/RestrictedAssets/Maps/CTF-Polaris_Shellv2",
-        "/Game/Ranel/CTF-Ranel",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Revenge-LE102-UT99/CTF-Revenge-LE102-UT99",
-        "/Game/RestrictedAssets/Maps/CTF-Runoff_shell_v1_2",
-        "/Game/CTF-Shadow-Textured",
         "/Game/Terra/CTF-Terra-v1",
         "/Game/UT+/CTF-TitanPass_Shell",
-        "/Game/Maps/CTF-VaultCity_FPS",
-        "/Game/RestrictedAssets/Maps/Vengeance99/CTF-Vengeance_v07",
+        "/Game/UT99/Maps/CTF-Lucius",
         "/Game/Virility/CTF-Virility_CE",
-        "/Game/Maps/CTF-Bleak_2019"
+        
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
@@ -114,6 +119,7 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
       "customMapList": [
+        "/Game/acmes_Content/Maps/DM-Achilles"
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
         "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
@@ -151,6 +157,7 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
       "customMapList": [
+        "/Game/acmes_Content/Maps/DM-Achilles"
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
         "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
