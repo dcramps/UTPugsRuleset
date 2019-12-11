@@ -130,6 +130,7 @@
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Shell",
         "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
         "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K"
+        "/Game/RestrictedAssets/Maps/WIP/DM-PipeWorks/DM-PipeWorks"
       ],
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
@@ -168,6 +169,7 @@
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Shell",
         "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
         "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K"
+        "/Game/RestrictedAssets/Maps/WIP/DM-PipeWorks/DM-PipeWorks"
       ],
       "maxPlayers": 8,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
