@@ -458,14 +458,14 @@
     },
     {
       "uniqueTag": "UT+ Tournament (WB)",
-      "title": "Winner Bracket",
+      "title": "Fun Cup WB",
       "categories": [
         "Fun Cup 3"
       ],
       "tooltip": "",
       "description": "UT+ Sunday Fun Cup #3",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "Duel",
+      "gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
       "bHideFromUI": false,
       "bCompetitiveMatch": false,
       "bTeamGame": true,
@@ -487,14 +487,14 @@
     },
     {
       "uniqueTag": "UT+ Tournament (LB)",
-      "title": "Loser Bracket",
+      "title": "Fun Cup LB",
       "categories": [
         "Fun Cup 3"
       ],
       "tooltip": "",
       "description": "UT+ Sunday Fun Cup #3",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "Duel",
+      "gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
       "bHideFromUI": false,
       "bCompetitiveMatch": false,
       "bTeamGame": true,
