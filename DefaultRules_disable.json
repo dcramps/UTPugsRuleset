@@ -509,7 +509,7 @@
 			"maxPlayers": 20,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-			"gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,UTPlusMovement,Global_StatSQL-v2,MutTeamSkins,UTPlus,HiddenWeaponsUTPL,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
+			"gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=true?Difficulty=3?mutator=MutHitsounds,UTPlusMovement,Global_StatSQL-v2,MutTeamSkins,UTPlus,HiddenWeaponsUTPL,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
