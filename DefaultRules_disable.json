@@ -436,6 +436,36 @@
 			"bHideFromUI": false,
 			"epicForceUIVisibility": 0
 		},
+{
+            "uniqueTag": "UC_Blitz_Cup",
+            "categories": [
+                "Blitz Cup"
+            ],
+            "title": "NA Blitz Cup",
+            "toolTip": "Attackers must deliver their flag to the enemy base.",
+            "description": "Blitz.\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
+            "mapPrefixes": [],
+            "maxMapsInList": 80,
+            "defaultMap": "/Game/RestrictedAssets/Maps/WIP/FR-Fort",
+            "customMapList": [
+                "/Game/RestrictedAssets/Maps/WIP/FR-Blackstone-UC",
+                "/Game/Maps/FR-Foundry/FR-Foundry-WIP6",
+                "/Game/RestrictedAssets/Maps/WIP/FR-Heist",
+                "/Game/RestrictedAssets/Maps/WIP/FR-HighRoad-UC",
+                "/Game/Maps/FR-Horus/FR-Horus_WIP02",
+                "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
+                "/Game/RestrictedAssets/Maps/WIP/FR-Loh"
+            ],
+            "maxPlayers": 10,
+            "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
+            "gameMode": "/Script/UnrealTournament.UTFlagRunGame",
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/Sniper/BP_Sniper.BP_Sniper_C:/Game/RestrictedAssets/Weapons/LightningRifle/BP_LightningRifle.BP_LightningRifle_C?ServerPassword=cup?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,Mutator_WeaponSkins,WeaponReplacement,hostcommands,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+            "requiredPackages": [],
+            "bTeamGame": true,
+            "bCompetitiveMatch": false,
+            "optionFlags": 65535,
+            "bHideFromUI": false
+            },		  
 		{
 			"uniqueTag": "PUG_TDM4",
 			"categories": [
