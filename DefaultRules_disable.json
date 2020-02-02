@@ -310,7 +310,7 @@
 			"maxPlayers": 2,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
 			"gameMode": "/Script/UnrealTournament.UTDuelGame",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,WarmupPlus,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
@@ -353,7 +353,7 @@
 			"maxPlayers": 2,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
 			"gameMode": "/Script/UnrealTournament.UTDuelGame",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,WarmupPlus,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
@@ -388,7 +388,7 @@
 			"maxPlayers": 4,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,WarmupPlus,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
@@ -416,7 +416,7 @@
 			"maxPlayers": 6,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,",
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,WarmupPlus,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,",
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
@@ -451,7 +451,7 @@
 			"maxPlayers": 8,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,MutHitsounds,HiddenWeaponsUTPL,WarmupPlus,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,EnergyEnforcerMutator,AddImpactHammer,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,WeaponReplacement,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C,", 
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
