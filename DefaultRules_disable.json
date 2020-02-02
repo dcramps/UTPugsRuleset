@@ -379,10 +379,10 @@
 			"customMapList": [
 				"/Game/RestrictedAssets/Maps/WIP/DM-Focus",
 				"/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
-				"/Game/RestrictedAssets/Maps/DM-Chill_Shell",
+				"/Game/Maps/H15/DM-Antiquus-Beta013",
 				"/Game/RestrictedAssets/Maps/WIP/DM-Cannon",
 				"/Game/Rankin/DM-Rankin-LE",
-				"/Game/Maps/DM-Codex-UTPL",
+				"/Game/Maps/DM-Codex",
 				"/Game/dc/DM-Solo-NoDoors"
 			],
 			"maxPlayers": 4,
@@ -405,13 +405,13 @@
 			"maxMapsInList": 0,
 			"quickPlayMaps": [],
 			"customMapList": [
-				"/Game/RestrictedAssets/Maps/WIP/DM-Focus",
 				"/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
-				"/Game/RestrictedAssets/Maps/DM-Chill_Shell",
-				"/Game/RestrictedAssets/Maps/WIP/DM-Cannon",
-				"/Game/Rankin/DM-Rankin-LE",
-				"/Game/Maps/DM-Codex-UTPL",
-				"/Game/dc/DM-Solo-NoDoors"
+				"/Game/DM-Defiance/DM-Defiance-v14",
+				"/Game/RestrictedAssets/Maps/WIP/DM-Temple-IV",
+				"/Game/RestrictedAssets/Maps/WIP/DM-Spacer",
+				"/Game/Maps/DM-Tempest",
+				"/Game/RestrictedAssets/Maps/WIP/OnHold/DM-SidCastle-IV",
+				"/Game/Maps/DM-Nitro"
 			],
 			"maxPlayers": 6,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
@@ -441,11 +441,12 @@
 			"quickPlayMaps": [],
 			"customMapList": [
 				"/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
-				"/Game/RestrictedAssets/Maps/WIP/DM-Goose-b1",
-				"/Game/Rankin/DM-Rankin-LE",
+				"/Game/DM-Defiance/DM-Defiance-v14",
+				"/Game/RestrictedAssets/Maps/WIP/DM-Temple-IV",
 				"/Game/RestrictedAssets/Maps/WIP/DM-Spacer",
 				"/Game/Maps/DM-Tempest",
-				"/Game/RestrictedAssets/Maps/WIP/DM-Temple"
+				"/Game/RestrictedAssets/Maps/WIP/OnHold/DM-SidCastle-IV",
+				"/Game/Maps/DM-Nitro"
 			],
 			"maxPlayers": 8,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
