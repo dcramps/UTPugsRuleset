@@ -310,7 +310,7 @@
 			"maxPlayers": 2,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
 			"gameMode": "/Script/UnrealTournament.UTDuelGame",
-            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,WeaponReplacement,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutatorNoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,WarmupPlus,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,AnalyticsLogged=true?", 
+            "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutTeamSkins,Global_StatSQL-v2,WeaponReplacement,MutHitsounds,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CompetitivePickups,CustomHUD,UTPLArmour,WeaponReplacement,WarmupPlus,/Game/RestrictedAssets/Blueprints/Mutator_WeaponsStayOff.Mutator_WeaponsStayOff_C,AnalyticsLogged=true?", 
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
 			"bHideFromUI": false
