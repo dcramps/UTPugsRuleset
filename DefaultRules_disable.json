@@ -245,7 +245,7 @@
 			"bTeamGame": true,
 			"maxPlayers": 2,
 			"minPlayersToStart": 2,
-			"gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,UTPLArmour,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,HiddenWeaponsUTPL,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
+			"gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=10?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,/Game/ZohStuff/Balance/UTPLArmour.UTPLArmour_C,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,HiddenWeaponsUTPL,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
 			"optionFlags": 65535,
 			"maxMapsInList": 0,
 			"mapPrefixes": [],
@@ -628,12 +628,12 @@
 		},
 		{
 			"uniqueTag": "UT+ Tournament (WB)",
-			"title": "Fun Cup WB",
+			"title": "UT+ Duel+ Cup",
 			"categories": [
-				"Fun Cup 3"
+				"Duel Cup"
 			],
 			"tooltip": "",
-			"description": "UT+ Fun Cup",
+			"description": "UT+ Duel+ Cup",
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
 			"gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
 			"bHideFromUI": false,
@@ -641,41 +641,13 @@
 			"bTeamGame": true,
 			"maxPlayers": 2,
 			"minPlayersToStart": 2,
-			"gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=4?SpectatePassword=piano?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,HiddenWeaponsUTPL,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,UTPLArmour,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
+			"gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=2?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,/Game/ZohStuff/Balance/UTPLArmour.UTPLArmour_C,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,HiddenWeaponsUTPL,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
 			"optionFlags": 65535,
 			"maxMapsInList": 0,
 			"mapPrefixes": [],
 			"customMapList": [
 				"/Game/dc/Ironic/DM-Alanis",
-				"/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
-				"/Game/DM-Coma/Maps/DM-Coma_A015",
-				"/Game/Maps/DM-Deep-03g",
-				"/Game/Maps/DM-Erase/DM-EraseV2_a07",
-				"/Game/EpicInternal/Lea/DM-Lea",
-				"/Game/RestrictedAssets/Maps/WIP/DM-Solo"
-			]
-		},
-		{
-			"uniqueTag": "UT+ Tournament (LB)",
-			"title": "Fun Cup LB",
-			"categories": [
-				"Fun Cup 3"
-			],
-			"tooltip": "",
-			"description": "UT+ Fun Cup",
-			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-			"gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
-			"bHideFromUI": false,
-			"bCompetitiveMatch": false,
-			"bTeamGame": true,
-			"maxPlayers": 2,
-			"minPlayersToStart": 2,
-			"gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=5?MaxSpectators=4?SpectatePassword=piano?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,CustomHud,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,UTPlusMovement,HiddenWeaponsUTPL,NoPickupTimerMutator,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
-			"optionFlags": 65535,
-			"maxMapsInList": 0,
-			"mapPrefixes": [],
-			"customMapList": [
-				"/Game/dc/Ironic/DM-Alanis",
+				"/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
 				"/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
 				"/Game/DM-Coma/Maps/DM-Coma_A015",
 				"/Game/Maps/DM-Deep-03g",
