@@ -654,36 +654,7 @@
       "bCompetitiveMatch": false,
       "bHideFromUI": false
     },
-    {
-      "uniqueTag": "UT+ Tournament (WB)",
-      "title": "UT+ Duel+ Cup",
-      "categories": [
-        "Duel Cup"
-      ],
-      "tooltip": "",
-      "description": "UT+ Duel+ Cup",
-      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
-      "bHideFromUI": false,
-      "bCompetitiveMatch": false,
-      "bTeamGame": true,
-      "maxPlayers": 2,
-      "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=2?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,UTPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,ArmorPlus,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
-      "optionFlags": 65535,
-      "maxMapsInList": 0,
-      "mapPrefixes": [],
-      "customMapList": [
-        "/Game/dc/Ironic/DM-Alanis",
-        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
-        "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
-        "/Game/DM-Coma/Maps/DM-Coma_A015",
-        "/Game/Maps/DM-Deep-03g",
-        "/Game/Maps/DM-Erase/DM-EraseV2_a07",
-        "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Solo"
-      ]
-    },
+
     {
       "uniqueTag": "BLITZ UT+",
       "categories": [
