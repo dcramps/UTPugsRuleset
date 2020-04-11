@@ -517,7 +517,7 @@
       "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history",
       "description": "",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
+      "gameMode": "/Script/UnrealTournament.UTDuelGame",
       "bHideFromUI": false,
       "bCompetitiveMatch": false,
       "bTeamGame": true,
@@ -535,7 +535,7 @@
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
         "/Game/Maps/DM-Hazard/DM-Hazard_V5",
         "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
       ]
     },
  {
@@ -547,7 +547,7 @@
       "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history",
       "description": "",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
-      "gameMode": "/Game/dc/FuckDuelSpawns/DuelPlus.DuelPlus_C",
+      "gameMode": "/Script/UnrealTournament.UTDuelGame",
       "bHideFromUI": false,
       "bCompetitiveMatch": false,
       "bTeamGame": true,
@@ -564,7 +564,7 @@
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
         "/Game/Maps/DM-Hazard/DM-Hazard_V5",
         "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c"
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF"
       ]
     },    
     {
