@@ -110,6 +110,26 @@
       "optionFlags": 65535,
       "bHideFromUI": false
     },
+        {
+            "uniqueTag": "Bunnytrack",
+            "categories": [ "Bunnytrack" ],
+            "title": "Bunnytrack",
+            "tooltip": "Bunnytrack",
+            "description": "Bunnytrack",
+            "mapPrefixes": [ "BT" ],
+            "maxMapsInList": 0,
+            "defaultMap": "/Game/Maps/BT-TUTORIAL/BT-Welcome_v5",
+            "customMapList": [],
+            "maxPlayers": 10,
+            "displayTexture": "Texture2D'/Game/BT/Map/Textures/BTLogo2_dark.BTLogo2_dark'",
+            "gameMode": "/Game/BT/Gamemode/BT_Game.BT_Game_C",
+            "gameOptions": "?TimeLimit=0?GoalScore=0?BalanceTeams=false?ForceNoBots=true",
+            "requiredPackages": [],
+            "bTeamGame": false,
+            "bCompetitiveMatch": false,
+            "optionFlags": 65535,
+            "bHideFromUI": false
+        },    
     {
       "uniqueTag": "PUG_ELIM",
       "categories": [
