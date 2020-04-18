@@ -123,7 +123,7 @@
             "maxPlayers": 10,
             "displayTexture": "Texture2D'/Game/BT/Map/Textures/BTLogo2_dark.BTLogo2_dark'",
             "gameMode": "/Game/BT/Gamemode/BT_Game.BT_Game_C",
-            "gameOptions": "?TimeLimit=0?GoalScore=0?BalanceTeams=false?ForceNoBots=true",
+            "gameOptions": "?TimeLimit=0?GoalScore=200?BalanceTeams=false?ForceNoBots=true",
             "requiredPackages": [],
             "bTeamGame": false,
             "bCompetitiveMatch": false,
@@ -529,8 +529,8 @@
       "epicForceUIVisibility": 0
     },
  {
-      "uniqueTag": "Duel+ Wb CUP",
-      "title": "Duel+ CUP WB",
+      "uniqueTag": "Duel Wb CUP",
+      "title": "Duel CUP WB",
       "categories": [
         "Covid Cup"
       ],
@@ -559,8 +559,8 @@
       ]
     },
  {
-      "uniqueTag": "Duel+ LB",
-      "title": "Duel+ CUP LB",
+      "uniqueTag": "Duel LB",
+      "title": "Duel CUP LB",
       "categories": [
         "Covid Cup"
       ],
@@ -586,7 +586,40 @@
         "/Game/EpicInternal/Lea/DM-Lea",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF"
       ]
-    },    
+    }, 
+        {
+      "uniqueTag": "2v2 COVID CUP ELIM",
+      "categories": [
+        "Covid Cup"
+      ],
+      "title": "COVID CUP 2v2 Elimination",
+      "tooltip": "2v2 UT+ Ruleset. The team with players left alive at the end of a round scores a point - friendly fire ON.",
+      "description": "Survive, and kill the other team!\n\n<UT.Hub.RulesText_Small>First team to 7 points wins.</>",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "defaultMap": "/Game/Maps/DM-Cheops-UT2004",
+      "customMapList": [
+        "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
+        "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
+        "/Game/Under/DM-Over",
+        "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
+        "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
+        "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
+        "/Game/Maps/DM-Erase/DM-EraseV2_a07",        
+        
+      ],
+      "maxPlayers": 4,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
+      "gameOptions": "?TimeLimit=30?GoalScore=10?BalanceTeams=false?Difficulty=3?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,FriendlyFire,UTPlus,UTPlusMovement,HiddenWeaponsUTPL,MutatorStatsRecord,MutatorAutoRcon,CommunityAC,SetNetSpeed?AnalyticsLogged=true?ForceNoBots=1",
+      "requiredPackages": [
+        "/Game/ALTS/Elimination_113.Elimination_113_C"
+      ],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "optionFlags": 65535,
+      "bHideFromUI": false
+    },
     {
       "uniqueTag": "PUG_TDM4",
       "categories": [
