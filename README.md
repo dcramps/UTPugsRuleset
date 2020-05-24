@@ -71,6 +71,7 @@ You should see a giant list of bullshit. These are the rules for the hubs. Some 
 
 ## Create a new branch based on `master`
 
+Click Branch -> New Branch
 ![5](https://dc.wtf/jWmem9oe.png)
 
 Give it a fun name
