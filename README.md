@@ -119,7 +119,9 @@ Your browser will open to the Pull Request screen. It should look like this:
 ![11](https://dc.wtf/QXhHV0Gs.png)
 
 Make sure that it says `base: master` and `compare: <your branch name>` before continuing.
+
 Click the `Reviewers` gear and add `dcramps` as a reviewer
+
 Click `Create pull request`
 
 If everything is good, someone will merge the changes to master. You should get an email when that happens. Feel free to ping dc/phantaci to look at changes.
