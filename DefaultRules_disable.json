@@ -12,6 +12,7 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
+        "/Game/ANewMap/CTF-ANewMap",
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/AreaN23/CTF-AreaN23",
