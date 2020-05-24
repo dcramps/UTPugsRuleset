@@ -56,10 +56,15 @@ Open `DefaultRules_disable.json` in a text editor.
 You should see a giant list of bullshit. These are the rules for the hubs. Some highlights:
 
 `uniqueTag` - Not visible in game, but used to distinguish each ruleset. If you change one, make sure you don't change it to the same thing as another one.
+
 `categories` - This determines where in the hub menu a ruleset will live. The strings in here map to the tabs at the top of the hub Create a Match menu.
+
 `mapPrefixes` - This is used for rulesets without specific map lists. For example, `DM` will set this rule to list all Deathmatch maps
+
 `customMapList` - This is where the map list is specified (more on this below)
+
 `maxPlayers` - Duh
+
 `gameOptions` - This is a giant shitty string specifying all of the mutators used in a rule. Usually you won't need to change this.
 
 # Adding a map
