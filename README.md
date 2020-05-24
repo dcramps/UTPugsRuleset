@@ -14,7 +14,7 @@ NYC: `cd utroot` then `bash redirect.sh`
 
 Chi: `bash redirect.sh`
 
-The script will find the map on the redirect and add it. If you get a message like this, it means you fucked up and the new/updated pak is not on the redirect:
+The script will find the pak on the redirect and add it. If you get a message like this, it means you fucked up and the new/updated pak is not on the redirect:
 
 ```
 utroot@utpugatl:~$ bash redirect.sh
