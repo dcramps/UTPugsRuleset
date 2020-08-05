@@ -274,7 +274,8 @@
       "maxMapsInList": 0,
       "mapPrefixes": [],
       "customMapList": [
-        "/Game/Maps/DM-ShaftArena1/DM-ShaftArena1"
+        "/Game/Maps/DM-ShaftArena1/DM-ShaftArena1",
+        "/Game/RestrictedAssets/Maps/DM-ShaftPit"
       ]
     },
     {
