@@ -276,7 +276,8 @@
       "customMapList": [
         "/Game/Maps/DM-ShaftArena1/DM-ShaftArena1",
         "/Game/RestrictedAssets/Maps/DM-ShaftPit",
-        "/Game/ShaftArenaKurg/ShaftArenaKurrg"
+        "/Game/ShaftArenaKurg/ShaftArenaKurrg",
+        "/Game/DM-Ghoul"
       ]
     },
     {
