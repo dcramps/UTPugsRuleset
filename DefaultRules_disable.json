@@ -236,7 +236,7 @@
       "customMapList": [
         "/Game/RestrictedAssets/Maps/DM-Aerowalk_b1",
         "/Game/dc/Ironic/DM-Alanis",
-        "/Game/Maps/H15/DM-Antiquus-Beta013",
+        "/Game/Maps/DM-Mythic",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/EpicInternal/Backspace/DM-Backspace",
         "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
@@ -316,7 +316,7 @@
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
         "/Game/Maps/DM-Fervor/DM-Fervor_V8",
         "/Game/Maps/DM-Hazard/DM-Hazard_V3",
-        "/Game/RestrictedAssets/Maps/DM-Inpost23",
+        "/Game/Maps/DM-Mythic",
         "/Game/EpicInternal/Lea/DM-Lea",
         "/Game/Maps/DM-Protracted/DM-Protracted-WIP16",
         "/Game/Maps/DM-1/DM-Pure_vrc_3",
@@ -327,7 +327,7 @@
     },
     {
       "uniqueTag": "UTPL Duel",
-      "title": "UTPL Duel Season 3",
+      "title": "EU League Duel",
       "categories": [
         "UTPL"
       ],
@@ -337,7 +337,7 @@
       "maxMapsInList": 0,
       "quickPlayMaps": [],
       "customMapList": [
-        "/Game/RestrictedAssets/Maps/DM-Aerowalk_b1",
+        "/Game/Maps/DM-Mythic",
         "/Game/dc/Ironic/DM-Alanis",
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
@@ -346,6 +346,7 @@
         "/Game/Maps/DM-Deep-03g",
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
         "/Game/Maps/DM-Hazard/DM-Hazard_V3",
+        "/Game/Maps/DM-Protracted/DM-Protracted-WIP16",
         "/Game/EpicInternal/Lea/DM-Lea",
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo"
       ],
@@ -510,11 +511,11 @@
     },
     {
       "uniqueTag": "Duel 10 Min",
-      "title": "Duel 10 Min NN",
+      "title": "Duel 10 Min JDJ",
       "categories": [
         "Covid Cup"
       ],
-      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | No Noob November",
+      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | Just Duel January",
       "description": "",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
       "gameMode": "/Script/UnrealTournament.UTDuelGame",
@@ -530,7 +531,8 @@
       "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/DM-ASDF-IV",
         "/Game/dc/Ironic/DM-Alanis",
-        "/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Edge_03",
+        "/Game/Maps/DM-Mythic",
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
         "/Game/EpicInternal/Lea/DM-Lea",
@@ -539,11 +541,11 @@
     },
     {
       "uniqueTag": "Duel 5 Minute Cup",
-      "title": "Duel 5 Min NN",
+      "title": "Duel 5 Min JDJ",
       "categories": [
         "Covid Cup"
       ],
-      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | No Noob November",
+      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | Just Duel January",
       "description": "",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
       "gameMode": "/Script/UnrealTournament.UTDuelGame",
@@ -557,13 +559,14 @@
       "maxMapsInList": 0,
       "mapPrefixes": [],
       "customMapList": [
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF-IV",
         "/Game/dc/Ironic/DM-Alanis",
-        "/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Edge_03",
+        "/Game/Maps/DM-Mythic",
+        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF",
         "/Game/Maps/DM-Deep-03g",
         "/Game/Maps/DM-Erase/DM-EraseV2_a07",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
         "/Game/EpicInternal/Lea/DM-Lea",
-        "/Game/RestrictedAssets/Maps/WIP/DM-ASDF-IV"
+        "/Game/RestrictedAssets/Maps/WIP/DM-Solo"
       ]
     },
     {
