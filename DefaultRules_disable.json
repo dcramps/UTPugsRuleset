@@ -58,6 +58,38 @@
       "optionFlags": 65535,
       "bHideFromUI": false
     },
+{
+"uniqueTag": "Blitz_Cup",
+"categories": [
+	""
+],
+"title": "Carnage NA Blitz CUP",
+"toolTip": "Attackers must deliver their flag to the enemy base.",
+"description": "Blitz.\n<UT.Hub.RulesText_Small>Maximum players : %maxplayers%</>",
+"mapPrefixes": [],
+"maxMapsInList": 80,
+"defaultMap": "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
+"customMapList": [
+	"/Game/RestrictedAssets/Maps/WIP/FR-Blackstone-UC",
+	"/Game/RestrictedAssets/Maps/WIP/FR-Heist-UC",
+	"/Game/RestrictedAssets/Maps/WIP/FR-HighRoad-UC",
+	"/Game/Maps/FR-Horus/FR-Horus_WIP02",
+	"/Game/RestrictedAssets/Maps/WIP/FR-Loh",
+	"/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
+	"/Game/Maps/FR-Nova/FR-Nova_CUP",
+	"/Game/Maps/FR-Rooftops/FR-Rooftops",
+	"/Game/Maps/SprintLevel_Test/FR-Sprint"
+],
+"maxPlayers": 10,
+"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
+"gameMode": "/Script/UnrealTournament.UTFlagRunGame",
+"gameOptions": "?ServerPassword=cup?MaxPlayerWait=80?BalanceTeams=false?mutator=WeaponsStayOff,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoPickupTimerMutator?AnalyticsLogged=true?ForceNoBots=1",
+"requiredPackages": [],
+"bTeamGame": true,
+"bCompetitiveMatch": false,
+"optionFlags": 65535,
+"bHideFromUI": false
+},
     {
       "uniqueTag": "PUG_CTFPlus",
       "categories": [
