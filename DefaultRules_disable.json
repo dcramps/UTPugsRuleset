@@ -206,7 +206,7 @@
       "uniqueTag": "Shaft-Arena",
       "title": "Shaft Arena 1v1",
       "categories": [
-        "Shaft Arena"
+        "Arena"
       ],
       "tooltip": "One versus One, shaft arena 50% health steal",
       "description": "One versus One, test of deathmatch skill.\n\n<UT.Hub.RulesText_Small>Time limit: 10 minutes</>",
@@ -226,6 +226,29 @@
         "/Game/RestrictedAssets/Maps/DM-ShaftPit",
         "/Game/KrypT/Finish_Maps/DM_Whirlpool",
         "/Game/DM-Ghoul"
+      ]
+    },
+    {
+      "uniqueTag": "Knockback-Arena",
+      "title": "Knockback Arena 1v1",
+      "categories": [
+        "Arena"
+      ],
+      "tooltip": "One versus One, knockback arena 3x momentum",
+      "description": "Shock does zero damage but 3x knockback. To change knockback as host type 'mutate kbm <number>'",
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
+      "gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
+      "bHideFromUI": false,
+      "bCompetitiveMatch": false,
+      "bTeamGame": true,
+      "maxPlayers": 2,
+      "minPlayersToStart": 2,
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=25?mutator=MutKnockbackArena,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "optionFlags": 65535,
+      "maxMapsInList": 0,
+      "mapPrefixes": [],
+      "customMapList": [
+        "/Game/dc/Above/DM-Above"
       ]
     },
     {
