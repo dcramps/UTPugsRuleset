@@ -479,6 +479,37 @@
       "epicForceUIVisibility": 0
     },
     {
+      "uniqueTag": "BlitzWars21",
+      "categories": [
+        "Cups"
+      ],
+      "title": "BlitzWars21",
+      "toolTip": "",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
+        "/Game/Maps/FR-Nova/FR-Nova_CUP",
+        "/Game/RestrictedAssets/Maps/WIP/FR-Blackstone-UC",
+        "/Game/Maps/SprintLevel_Test/FR-Sprint",
+        "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
+        "/Game/RestrictedAssets/Maps/WIP/FR-HighRoad-UC",
+        "/Game/RestrictedAssets/Maps/WIP/FR-Heist",
+        "/Game/RestrictedAssets/Maps/WIP/FR-Loh",
+        "/Game/Maps/FR-Horus/FR-Horus_WIP02",
+        "/Game/Maps/FR-Ceres/FR-Ceres",
+        "/Game/Maps/FR-Rooftops/FR-Rooftops"
+      ],  
+      "maxPlayers": 10,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
+      "gameMode": "/Script/UnrealTournament.UTFlagRunGame",
+      "gameOptions": "?WTR=/Game/RestrictedAssets/Weapons/Sniper/BP_Sniper.BP_Sniper_C:/Game/RestrictedAssets/Weapons/LightningRifle/BP_LightningRifle.BP_LightningRifle_C?ServerPassword=cup?mutator=MutHitsounds,Global_StatSQL-v2,MutTeamSkins,HiddenWeaponsUTPL,WeaponReplacement,/Game/NoPickupTimerMutator/NoPickupTimerMutator.NoPickupTimerMutator_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false            
+    },
+    {
       "uniqueTag": "Duel 10 Min",
       "title": "Duel 10 Min JDJ",
       "categories": [
