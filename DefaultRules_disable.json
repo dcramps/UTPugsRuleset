@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "uniqueTag": "PUG_CTF",
+      "uniqueTag": "GARDEN_CTF",
       "categories": [
         "UT+ Pickup Games"
       ],
@@ -59,7 +59,7 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "PUG_CTF",
+      "uniqueTag": "BAD_CTF",
       "categories": [
         "UT+ Pickup Games"
       ],
