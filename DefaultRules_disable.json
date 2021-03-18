@@ -5,7 +5,7 @@
       "categories": [
         "UT+ Pickup Games"
       ],
-      "title": "#garden CTF",
+      "title": "CTF #the-garden",
       "tooltip": "Capture the Flag - Competitive Rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
       "mapPrefixes": [],
@@ -59,11 +59,11 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "BAD_CTF",
+      "uniqueTag": "REGULAR_CTF",
       "categories": [
         "UT+ Pickup Games"
       ],
-      "title": "#ut4 CTF",
+      "title": "CTF #ut4",
       "tooltip": "Capture the Flag - Competitive Rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
       "mapPrefixes": [],
