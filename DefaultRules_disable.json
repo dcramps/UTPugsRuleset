@@ -397,7 +397,7 @@
         "/Game/DM-Trash"
       ]
     },
-		{
+{
 			"uniqueTag": "UTPL1",
 			"categories": [
 				"UTPL + CUPS"
@@ -421,7 +421,7 @@
 			"maxPlayers": 2,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
 			"gameMode": "/Script/UnrealTournament.UTDuelGame",
-			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=10?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,UTPLArmour,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
+			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=10?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,UTPLArmour,FriendlyFire,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
@@ -453,7 +453,7 @@
 			"maxPlayers": 4,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,UTPLArmour,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
+			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,UTPLArmour,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
@@ -485,7 +485,7 @@
 			"maxPlayers": 6,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,UTPLArmour,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
+			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,UTPLArmour,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
@@ -518,7 +518,7 @@
 			"maxPlayers": 8,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Script/UnrealTournament.UTTeamDMGameMode",
-			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,UTPLArmour,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
+			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=0?TimeLimit=15?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=WeaponReplacement,WeaponsStayOff,FriendlyFire,UTPLArmour,NoSpawnProtectionMutator,NoPickupTimerMutator,AddImpactHammer,MutHitsounds,MutTeamSkins,CustomHUD,CompetitivePickups,HiddenWeaponsUTPL,AutoPause,WarmupPlus?ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
@@ -548,7 +548,7 @@
 			"maxPlayers": 6,
 			"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
 			"gameMode": "/Game/Domination/BP_Dom.BP_Dom_C",
-			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=200?TimeLimit=15?mutator=NoPickupTimerMutator,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,UTPLArmour,ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
+			"gameOptions": "?MaxReadyWait=60?MaxPlayerWait=60?GoalScore=200?TimeLimit=15?mutator=UTPLArmour,NoPickupTimerMutator,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,ForceRespawn=1?BalanceTeams=false?ForceNoBots=1?RequireFull=1?MaxSpectators=3",
 			"requiredPackages": [],
 			"bTeamGame": true,
 			"bCompetitiveMatch": false,
