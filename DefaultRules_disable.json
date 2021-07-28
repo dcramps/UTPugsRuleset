@@ -693,7 +693,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,UTPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,UTPLArmour,UTPlusMovement,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,UTPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,UTPLArmour,UTPlusMovement,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -710,7 +710,7 @@
       ]
     },
     {
-      "uniqueTag": "Duel 5 Minute Cup",
+      "uniqueTag": "Duel 6 Minute Cup",
       "title": "MM Duel 5min",
       "categories": [
         "Cups"
@@ -724,7 +724,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=5?MaxSpectators=3?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,UTPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,UTPLArmour,UTPlusMovement,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=6?MaxSpectators=3?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,UTPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,UTPLArmour,UTPlusMovement,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
