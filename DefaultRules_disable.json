@@ -692,6 +692,7 @@
         "/Game/RestrictedAssets/Maps/WIP/FR-Meltdown",
         "/Game/RestrictedAssets/Maps/WIP/FR-HighRoad-UC",
         "/Game/RestrictedAssets/Maps/WIP/FR-Heist",
+        "/Game/Maps/SprintLevel_Test/FR-Sprint",
         "/Game/RestrictedAssets/Maps/WIP/FR-Loh"
       ],
       "maxPlayers": 10,
