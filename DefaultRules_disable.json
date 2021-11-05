@@ -76,6 +76,7 @@
         "/Game/RestrictedAssets/Maps/WIP/CTF-Sub-Zero/CTF-SubZero",
         "/Game/acmes_Content/Maps/CTF-Shadow/CTF-Shadow-Textured",
         "/Game/GrendelKeep/CTF-Grendelkeep_shell",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Azcanice/CTF-Azcanice",
         "/Game/Virility/CTF-Virility_CE"
       ],
       "maxPlayers": 10,
@@ -111,6 +112,7 @@
         "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-V/CTF-Bleak-V",
         "/Game/RestrictedAssets/Maps/Pater/CTF-BollWerK_UT4",
         "/Game/Cynosure/CTF-Cynosure2",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Azcanice/CTF-Azcanice",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Deonize/CTF-Deonize",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Gataka-SE/CTF-Gataka-SE-UT99",
         "/Game/Glacier/CTF-Glacier-v1",
@@ -169,6 +171,7 @@
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/AreaN23/CTF-AreaN23",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Azcanice/CTF-Azcanice",
         "/Game/Azcanize/CTF-Azcanize",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Bleak-V/CTF-Bleak-V",
         "/Game/RestrictedAssets/Maps/Pater/CTF-BollWerK_UT4",
