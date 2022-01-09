@@ -132,6 +132,7 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Ahunuii/CTF-Ahunuii",
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Archanastre-IV/CTF-Archanastre-IV",
@@ -197,6 +198,7 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Ahunuii/CTF-Ahunuii",
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Archanastre-IV/CTF-Archanastre-IV",
