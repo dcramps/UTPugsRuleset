@@ -57,11 +57,11 @@
       "epicForceUIVisibility": 0
     },
     {
-      "uniqueTag": "JUNE_CTF",
+      "uniqueTag": "CUP_CTF",
       "categories": [
         "UT+ Pickup Games"
       ],
-      "title": "CTF #june-ctf-cup",
+      "title": "CTF #league-plus",
       "tooltip": "Capture the Flag - cup Competitive Rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
       "mapPrefixes": [],
@@ -69,6 +69,7 @@
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Anfractuous-IV/CTF-Anfractuous-IV",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Archanastre-IV/CTF-Archanastre-IV",
         "/Game/AreaN23/CTF-AreaN23",
@@ -133,6 +134,7 @@
       "defaultMap": "/Game/GrendelKeep/CTF-Grendelkeep_shell",
       "customMapList": [
         "/Game/RestrictedAssets/Maps/WIP/CTF-Ahunuii/CTF-Ahunuii",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Anfractuous-IV/CTF-Anfractuous-IV",
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Archanastre-IV/CTF-Archanastre-IV",
@@ -203,6 +205,7 @@
         "/Game/RestrictedAssets/Maps/WIP/CTF-Ahunuii/CTF-Ahunuii",
         "/Game/Anfractuous2/CTF-Anfractuous2_scaled",
         "/Game/Maps/CTF-Archanastre-v5",
+        "/Game/RestrictedAssets/Maps/WIP/CTF-Anfractuous-IV/CTF-Anfractuous-IV",
         "/Game/RestrictedAssets/Maps/WIP/CTF-Archanastre-IV/CTF-Archanastre-IV",
         "/Game/AreaN23/CTF-AreaN23",
         "/Game/KrypT/CTF-AreaN24",
