@@ -386,7 +386,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,ArmorPlus,UTPlus,WeaponSkinsPlus,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/UT+/UTPlus/UT+BioRifle.UT+BioRifle_C?mutator=WeaponReplacement,ArmorPlus,UTPlus,HiddenWeaponsUTPL,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -791,11 +791,11 @@
     },
     {
       "uniqueTag": "Duel 10 Min",
-      "title": "CUP UT+ Duel 10min",
+      "title": "Hidden CUP UT+ Duel 10min",
       "categories": [
         "Cups"
       ],
-      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | Just Duel January",
+      "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history | Hidden Duel",
       "description": "",
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_Duel.GB_Duel'",
       "gameMode": "/Script/UnrealTournament.UTDuelGame",
@@ -804,7 +804,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,ArmorPlus,UTPlus,SetNetSpeed,AntiCheatV2,MutHitsounds,MutTeamSkins,WeaponSkinsPlus,NoSpawnProtectionMutator,NoPickupTimerMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=0?WTR=/Game/RestrictedAssets/Weapons/GrenadeLauncher/BP_GrenadeLauncher.BP_GrenadeLauncher_C:/Game/RestrictedAssets/Weapons/BioRifle/BP_BioRifle.BP_BioRifle_C?mutator=MutHubToolsClient,WeaponReplacement,ArmorPlus,UTPlus,SetNetSpeed,AntiCheatV2,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,NoPickupTimerMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
@@ -825,7 +825,7 @@
     },
     {
       "uniqueTag": "Duel 6 Minute Cup",
-      "title": "CUP UT+ Duel 5min",
+      "title": "Hidden CUP UT+ Duel 5min",
       "categories": [
         "Cups"
       ],
