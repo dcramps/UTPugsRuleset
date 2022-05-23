@@ -502,11 +502,11 @@
       "bHideFromUI": false
     },    
     {
-      "uniqueTag": "UT+499 CTF",
+      "uniqueTag": "ESP UT+499 CTF",
       "categories": [
         "UT+499 PUG Rulesets"
       ],
-      "title": "CTF ut+499",
+      "title": "ESP CTF ut+499",
       "tooltip": "Capture the Flag - cup Competitive Rules. Check out https://ut4pugs.us/match_history",
       "description": "Red Versus Blue capture the flag.\n\nTime limit: 20 minutes \nMaximum players: 10",
       "mapPrefixes": [],
