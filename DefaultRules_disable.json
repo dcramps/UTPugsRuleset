@@ -876,8 +876,8 @@
       "bHideFromUI": false
     },
     {
-      "uniqueTag": "Duel 10 Min",
-      "title": "Hidden CUP UT+ Duel 10min",
+      "uniqueTag": "Duel 10 Min GT",
+      "title": "GRAND TOURNAMENT UT+ Duel",
       "categories": [
         "Cups"
       ],
@@ -911,7 +911,7 @@
     },
     {
       "uniqueTag": "Duel 5 Minute Cup",
-      "title": "Hidden CUP UT+ Duel 5min",
+      "title": "GT UT+ Duel 5min",
       "categories": [
         "Cups"
       ],
@@ -1150,6 +1150,50 @@
       "optionFlags": 65535,
       "bHideFromUI": false,
       "epicForceUIVisibility": 0
+    },
+    {"uniqueTag": "3elicup2022",
+      "categories": [
+        "Cup"
+      ],
+      "title": "3v3 ELI Cup EU",
+      "toolTip": "",
+      "description": "3v3 Elimination using PUG-Ruleset:\nFriendly Fire, MutHitsounds, MutTeamSkins, WeaponSkins, Global_StatsSQL",
+      "mapPrefixes": [],
+      "maxMapsInList": 0,
+      "quickPlayMaps": [],
+      "customMapList": [
+        "/Game/RestrictedAssets/Maps/WIP/DM-Deadfall",
+        "/Game/RestrictedAssets/Maps/DM-1on1-Roughinery",
+        "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
+        "/Game/Under/DM-Over",
+        "/Game/RestrictedAssets/Maps/DM-Cheops-UT4",
+        "/Game/RestrictedAssets/Maps/WIP/DM-Goose-b1",
+        "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
+        "/Game/DM-Ra/DM-Ra-v15",
+        "/Game/Maps/DM-Erase/DM-EraseV2_a07",
+        "/Game/RestrictedAssets/Maps/DM-Chill_Shell",
+        "/Game/Maps/DM-Conflux_a04",
+        "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
+        "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
+        "/Game/RestrictedAssets/Maps/WIP/DM-StalwartXL-UT99/DM-StalwartXL-UT99_metal-1",
+        "/Game/Signify/DM-Signify",
+        "/Game/RestrictedAssets/Maps/Test/DM-PavilionShell-v2-UPUGs",
+        "/Game/GrendelKeep/DM-Grendelkeep_Shell",
+        "/Game/RestrictedAssets/Maps/DM-Chill",
+        "/Game/Rankin/DM-Rankin-LE",
+        "/Game/Maps/DM-Grendelkeep-UT2004",
+        "/Game/RestrictedAssets/Maps/WIP/DM-Cannon",
+        "/Game/Maps/DM-Corrugation-UT2004",
+        "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a"
+      ],
+      "maxPlayers": 6,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
+      "gameOptions": "?BalanceTeams=0?TimeLimit=30?MustBeReady=1?ForceNoBots=1?ServerPassword=pug?mutator=WeaponSkins,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,hostcommands,HiddenWeaponsUTPL,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C",
+      "requiredPackages": [],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "bHideFromUI": false
     },
     {
       "uniqueTag": "Elim Draft",
