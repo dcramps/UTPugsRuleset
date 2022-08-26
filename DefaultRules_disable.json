@@ -675,7 +675,7 @@
       "bTeamGame": true,
       "maxPlayers": 2,
       "minPlayersToStart": 2,
-      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=10?mutator=ShaftArena,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?BotFill=0?RequireFull=1?TimeLimit=10?MaxSpectators=5?GoalScore=10?mutator=ShaftArena,UTPlusMovement,SetNetSpeed,MutHitsounds,MutTeamSkins,HiddenWeaponsUTPL,NoSpawnProtectionMutator,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "optionFlags": 65535,
       "maxMapsInList": 0,
       "mapPrefixes": [],
