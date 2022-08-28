@@ -1189,7 +1189,7 @@
       "maxPlayers": 6,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?BalanceTeams=0?TimeLimit=30?MustBeReady=1?ForceNoBots=1?ServerPassword=pug?mutator=WeaponSkins,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,hostcommands,HiddenWeaponsUTPL,ProSwitch,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C",
+      "gameOptions": "?BalanceTeams=0?TimeLimit=30?MustBeReady=1?ForceNoBots=1?ServerPassword=pug?mutator=WeaponSkins,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,hostcommands,HiddenWeaponsUTPL,ProSwitch,RemoveGrenadeLauncher,/Game/RestrictedAssets/Blueprints/Mutator_FriendlyFire.Mutator_FriendlyFire_C",
       "requiredPackages": [],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
