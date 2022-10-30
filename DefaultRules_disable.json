@@ -188,7 +188,7 @@
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/UT+/UTPlusCTF.UTPlusCTF_C",
+      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
       "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorStatsRecord,MutatorAutoRcon,MutNoESP,Mut_noHalftime?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
@@ -260,7 +260,7 @@
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/UT+/UTPlusCTF.UTPlusCTF_C",
+      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
       "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorStatsRecord,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
@@ -489,7 +489,7 @@
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/UT+/UTPlusCTF.UTPlusCTF_C",
+      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
       "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutNoESP,Mut_noHalftime,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1?MaxSpectators=3?UTPlusWeaponStyle=99",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
@@ -560,8 +560,8 @@
       ],
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
-      "gameMode": "/Game/UT+/UTPlusCTF.UTPlusCTF_C",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,/Game/MetalCustom/Halloween/Mut_HalloweenDecos.Mut_HalloweenDecos_C,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1?MaxSpectators=3?UTPlusWeaponStyle=99",
+      "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
+      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1?MaxSpectators=3?UTPlusWeaponStyle=99",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
         "/Game/MUGA/BP_MUGA-WindowsNoEditor",
