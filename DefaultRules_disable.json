@@ -561,7 +561,7 @@
       "maxPlayers": 10,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_CTF.GB_CTF'",
       "gameMode": "/Script/UnrealTournament.UTCTFGameMode",
-      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,MutHubToolsClient,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1?MaxSpectators=3?UTPlusWeaponStyle=99",
+      "gameOptions": "?TimeLimit=20?GoalScore=0?BalanceTeams=false?MercyScore=5?Difficulty=3?ForceRespawn=0?mutator=UTPlus,ArmorPlus,HiddenWeaponsUTPL,SetNetSpeed,MutHitsounds,MutTeamSkins,NoSpawnProtectionMutator,NoPickupTimerMutator,MutCaptureTime,CustomHUD,MutatorAutoRcon?AnalyticsLogged=true?ForceNoBots=1?MaxSpectators=3?UTPlusWeaponStyle=99",
       "requiredPackages": [
         "/Game/GSC/BP_Santa_hat-WindowsNoEditor",
         "/Game/MUGA/BP_MUGA-WindowsNoEditor",
