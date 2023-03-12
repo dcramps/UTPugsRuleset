@@ -1251,7 +1251,7 @@
         "/Game/Signify/DM-Signify",
         "/Game/RestrictedAssets/Maps/WIP/TomBennett/DM-TomBennett"
       ],
-      "maxPlayers": 6,
+      "maxPlayers": 8,
       "maxTeamCount": 2,
       "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
