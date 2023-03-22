@@ -5,7 +5,7 @@
       "categories": [
         "Promode Elim"
       ],
-      "title": "Spring Season Promode 5v5",
+      "title": "5v5 Spring Season Promode",
       "toolTip": "Elimination Public Ruleset.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
@@ -34,7 +34,7 @@
       "categories": [
         "Promode Elim"
       ],
-      "title": "Spring Elim Promode 4v4",
+      "title": "4v4 Spring Elim Promode",
       "toolTip": "Elimination Public Ruleset.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
@@ -63,13 +63,13 @@
       "categories": [
         "Promode Elim"
       ],
-      "title": "Spring Elim Promode 3v3",
+      "title": "3v3 Spring Elim Promode",
       "toolTip": "Elimination Public Ruleset.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
       "maxMapsInList": 0,
       "defaultMap": "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
-      "maxPlayers": 10,
+      "maxPlayers": 6,
       "maxTeamCount": 2,
       "maxTeamSize": 5,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
