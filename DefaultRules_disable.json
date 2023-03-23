@@ -16,7 +16,7 @@
       "maxTeamSize": 5,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=10?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?MaxPlayers=10?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ProMode/mutator_promode.Mutator_ProMode_C",
@@ -45,7 +45,7 @@
       "maxTeamSize": 5,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,MutatorAutoRcon,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
+      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,MutatorAutoRcon,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ProMode/mutator_promode.Mutator_ProMode_C",
@@ -74,7 +74,7 @@
       "maxTeamSize": 5,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=6?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,MutatorAutoRcon,SetNetSpeed,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
+      "gameOptions": "?MaxPlayers=6?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,MutatorAutoRcon,SetNetSpeed,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ProMode/mutator_promode.Mutator_ProMode_C",
