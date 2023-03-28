@@ -16,7 +16,7 @@
       "maxTeamSize": 5,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=10?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?ForceNoBots=1?mutator=UnMask,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?MaxPlayers=10?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?MapLockoutDuration=3?RandomSubsetSize=9?ForceNoBots=1?mutator=UnMask,MutHitsounds,UTVotingMod.UTVotingMod,Global_StatSQL-v2,MutTeamSkins,ProMode,HiddenWeaponsUTPL,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ProMode/mutator_promode.Mutator_ProMode_C",
@@ -25,6 +25,8 @@
       ],
       "customMapList": [
         "/Game/acmes_Content/Maps/DM-Achilles/DM-Achilles",
+        "/Game/RestrictedAssets/Maps/WIP/DM-Temple-IV",
+        "/Game/Maps/DM-1/DM-Pure_vrc_3",
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
         "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/DM-Faze/DM-Faze-v10",
@@ -34,6 +36,7 @@
         "/Game/RestrictedAssets/Maps/WIP/DM-Honk/DM-Honk",
         "/Game/RestrictedAssets/Maps/WIP/DM-NickMesh",
         "/Game/Maps/DM-Nitro",
+        "/Game/DM-Defiance/DM-Defiance-v16",
         "/Game/Under/DM-Over",
         "/Game/GrendelKeep/DM-Grendelkeep_Shell",
         "/Game/Maps/DM-Erase/DM-EraseV2_ELIM_VERSION",
