@@ -58,8 +58,8 @@
       "categories": [
         "Arena"
       ],
-      "title": "5v5 Spring Season Promode",
-      "toolTip": "Elimination Public Ruleset.",
+      "title": "4v4 SDOm PUG",
+      "toolTip": "sdom 4v4 puggg.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
       "maxMapsInList": 0,
