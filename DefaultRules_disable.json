@@ -54,6 +54,41 @@
       "epicForceUIVisibility": 0
     },   
         {
+      "uniqueTag": "SDOM 4v4 PUG",
+      "categories": [
+        "Arena"
+      ],
+      "title": "5v5 Spring Season Promode",
+      "toolTip": "Elimination Public Ruleset.",
+      "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
+      "mapPrefixes": ["DM"],
+      "maxMapsInList": 0,
+      "defaultMap": "/Game/RestrictedAssets/Maps/Pater/DM-Typhoon",
+      "maxPlayers": 8,
+      "maxTeamCount": 2,
+      "maxTeamSize": 4,
+      "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+      "gameMode": "/Game/Domination/BP_Dom.BP_Dom_C",
+      "gameOptions": "MaxPlayers=10?TimeLimit=15?GoalScore=300?BalanceTeams=false?mutator=Mut_LogoSplash_V2,MutHitsounds,SetNetSpeed,HiddenWeaponsUTPL,MutTeamSkins,Global_StatSQL-v2,NoPickupTimerMutator,ShockDom?AnalyticsLogged=true?ForceNoBots=1",
+      "requiredPackages": [
+        "/Game/Domination/BP_Dom.BP_Dom_C"
+      ],
+      "customMapList": [
+        "/Game/RestrictedAssets/Maps/Pater/DM-Typhoon",
+	"/Game/Domination/Maps/DM-SlimeTime",
+	"/Game/Domination/Maps/DM-Rankin-sdom",
+	"/Game/Domination/Maps/DM-Campgrounds-sdom",
+	"/Game/Domination/Maps/DM-Peaktest",
+	"/Game/Domination/Maps/DM-Temple-sdom",
+	"/Game/Domination/Maps/DM-Under-sdom"
+      ],
+      "bTeamGame": true,
+      "bCompetitiveMatch": false,
+      "optionFlags": 65535,
+      "bHideFromUI": false,
+      "epicForceUIVisibility": 0
+    },   
+        {
       "uniqueTag": "Spring Elim Pub 4v4 Pro",
       "categories": [
         "Promode Elim"
