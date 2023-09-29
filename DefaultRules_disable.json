@@ -932,7 +932,7 @@
         "/Game/EpicInternal/Lea/DM-Lea",
         "/Game/Maps/DM-Protracted/DM-Protracted-WIP16",
         "/Game/Maps/DM-1/DM-Pure_vrc_3",
-        "/Game/RestrictedAssets/Maps/DM-1on1-Roughinery",
+        "/Game/Maps/Eternal/DM-Eternal",
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo",
         "/Game/RestrictedAssets/Maps/WIP/DM-Devolve/DM-Devolve",
         "/Game/DM-Trash"
@@ -1219,6 +1219,7 @@
         "/Game/DM-Haunted",
         "/Game/DM-Coma/Maps/DM-Coma_A015",
         "/Game/RestrictedAssets/Maps/WIP/DM-Devolve/DM-Devolve",
+	"/Game/Maps/Eternal/DM-Eternal",
         "/Game/RestrictedAssets/Maps/WIP/DM-Solo"
       ]
     },
