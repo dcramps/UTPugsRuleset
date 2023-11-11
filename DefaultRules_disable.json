@@ -5,18 +5,18 @@
       "categories": [
         "Promode Elim"
       ],
-      "title": "5v5 Spring Season Promode",
+      "title": "4v4 Season Promode",
       "toolTip": "Elimination Public Ruleset.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
       "maxMapsInList": 0,
       "defaultMap": "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
-      "maxPlayers": 10,
+      "maxPlayers": 8,
       "maxTeamCount": 2,
-      "maxTeamSize": 5,
+      "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=10?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?MapLockoutDuration=4?RandomSubsetSize=0?ForceNoBots=1?mutator=ProMode,MutHitsounds,UTVotingMod.UTVotingMod,Global_StatSQL-v2,MutTeamSkins,HiddenWeaponsUTPL,MutNonToxicSniper,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,SetNetSpeed,RemoveGrenadeLauncher?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=true?MaxSpectators=3?MaxPlayerWait=65?MapLockoutDuration=4?RandomSubsetSize=0?ForceNoBots=1?mutator=ProMode,MutHitsounds,UTVotingMod.UTVotingMod,Global_StatSQL-v2,MutTeamSkins,HiddenWeaponsUTPL,MutNonToxicSniper,/Game/Custom/KickVoting/MutKickVoting.MutKickVoting_C,SetNetSpeed,RemoveGrenadeLauncher?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ProMode/mutator_promode.Mutator_ProMode_C",
