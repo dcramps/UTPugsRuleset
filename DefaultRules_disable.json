@@ -45,7 +45,7 @@
         "/Game/Signify/DM-Signify",
         "/Game/acmes_Content/Maps/DM-BoneBone/DM-BoneBone_Tex",
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4",
-        "/Game/RestrictedAssets/Maps/WIP/TomBennett/DM-TomBennett"
+        "/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05"
       ],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -131,7 +131,7 @@
         "/Game/Rankin/DM-Rankin-LE",
         "/Game/Signify/DM-Signify",
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4",
-        "/Game/RestrictedAssets/Maps/WIP/TomBennett/DM-TomBennett"
+        "/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05"
       ],
       "bTeamGame": true,
       "bCompetitiveMatch": false,
@@ -1444,25 +1444,16 @@
       "maxMapsInList": 0,
       "defaultMap": "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
       "customMapList": [
-        "/Game/acmes_Content/Maps/DM-Achilles/DM-Achilles",
         "/Game/PaterAssets/MyMaps/andok/DM-Andok_Scaled",
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
         "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
-        "/Game/RestrictedAssets/Maps/WIP/DM-NickTest1",
         "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
         "/Game/Rankin/DM-Rankin-LE",
         "/Game/Signify/DM-Signify",
-        "/Game/RestrictedAssets/Maps/WIP/TomBennett/DM-TomBennett",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Temple-IV",
         "/Game/RestrictedAssets/Maps/DM-Chiller",
-        "/Game/Maps/DM-Corrugation-UT2004",
-        "/Game/RestrictedAssets/Maps/WIP/DM-DeckTest",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Honk/DM-Honk",
         "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
-        "/Game/Under/DM-Over",
         "/Game/GrendelKeep/DM-Grendelkeep_Shell",
-        "/Game/Maps/DM-Erase/DM-EraseV2_ELIM_VERSION",
-        "/Game/DM-Elucidation/DM-Elucidation",
+        "/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05",
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4",	      
       ],
       "maxPlayers": 8,
@@ -1470,7 +1461,7 @@
       "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,ProMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ReverseFF,HiddenWeaponsUTPL,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
+      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,ProMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ReverseFF,HiddenWeaponsUTPL,MutatorAutoRcon,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ZohStuff/NetSpeed/SetNetSpeed.SetNetSpeed_C",
