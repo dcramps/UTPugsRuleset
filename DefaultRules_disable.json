@@ -25,7 +25,7 @@
       ],
       "customMapList": [
         "/Game/acmes_Content/Maps/DM-Achilles/DM-Achilles",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Temple-IV",
+        "/Game/Converted/DM-Pending-UT2004/DM-Pending",
         "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
         "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
         "/Game/DM-Faze/DM-Faze-v10",
@@ -1439,7 +1439,7 @@
         "Cups"
       ],
       "title": "Elim Draft League",
-      "toolTip": "Elimination Draft League ProMode ReverseFF Ruleset.",
+      "toolTip": "Elimination Draft League Pro+ ReverseFF Ruleset.",
       "description": "Elimination Draft League.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode, ReverseFF.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": [],
       "maxMapsInList": 0,
@@ -1451,6 +1451,7 @@
         "/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
         "/Game/Rankin/DM-Rankin-LE",
         "/Game/Signify/DM-Signify",
+	"/Game/Converted/DM-Pending-UT2004/DM-Pending",
         "/Game/RestrictedAssets/Maps/DM-Chiller",
         "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
         "/Game/GrendelKeep/DM-Grendelkeep_Shell",
