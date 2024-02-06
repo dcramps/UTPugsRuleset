@@ -568,7 +568,7 @@
     {
       "uniqueTag": "UT+499 Elim",
       "categories": [
-        "UT+499 PUG Rulesets"
+        "UT+ Pickup Games"
       ],
       "title": "Elim UT+499",
       "toolTip": "UTPlus Elimination ReverseFF Ruleset.",
@@ -624,7 +624,7 @@
     {
       "uniqueTag": "jardin UT+499 CTF",
       "categories": [
-        "UT+499 PUG Rulesets"
+        "UT+ Pickup Games"
       ],
       "title": "CTF ut+499",
       "tooltip": "Capture the Flag - cup Competitive Rules. Check out https://ut4pugs.us/match_history",
@@ -695,7 +695,7 @@
     {
       "uniqueTag": "ESP UT+499 CTF",
       "categories": [
-        "UT+499 PUG Rulesets"
+        "UT+ Pickup Games"
       ],
       "title": "ESP CTF ut+499",
       "tooltip": "Capture the Flag - cup Competitive Rules. Check out https://ut4pugs.us/match_history",
@@ -768,7 +768,7 @@
       "uniqueTag": "99 Duel Style",
       "title": "Duel UT+499",
       "categories": [
-        "UT+499 PUG Rulesets"
+        "UT+ Pickup Games"
       ],
       "tooltip": "One versus One, competitive rules. See stats at https://ut4pugs.us/match_history",
       "description": "One versus One, test of deathmatch skill.\n\n<UT.Hub.RulesText_Small>Time limit: 10 minutes</>",
@@ -1167,7 +1167,7 @@
     {
       "uniqueTag": "ROCKET_GIB",
       "categories": [
-        "Rocket Gib"
+        "Arena"
       ],
       "title": "Rocket Gib",
       "toolTip": "GET FUCKED!",
@@ -1190,7 +1190,7 @@
     {
       "uniqueTag": "2RG",
       "categories": [
-        "Rocket Gib"
+        "Arena"
       ],
       "title": "2v2 Team Rocket Gib",
       "toolTip": "GET FUCKED!",
@@ -1213,7 +1213,7 @@
     {
       "uniqueTag": "3RG",
       "categories": [
-        "Rocket Gib"
+        "Arena"
       ],
       "title": "3v3 Team Rocket Gib",
       "toolTip": "GET FUCKED!",
