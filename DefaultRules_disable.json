@@ -59,8 +59,8 @@
       "categories": [
         "Arena"
       ],
-      "title": "4v4 SDOm PUG",
-      "toolTip": "sdom 4v4 puggg.",
+      "title": "4v4 SDOM PUG!",
+      "toolTip": "sdom 4v4 pug ew with promovement.",
       "description": "Elimination pub.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
       "mapPrefixes": ["DM"],
       "maxMapsInList": 0,
@@ -70,7 +70,7 @@
       "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/Domination/BP_Dom.BP_Dom_C",
-      "gameOptions": "MaxPlayers=10?TimeLimit=15?GoalScore=300?BalanceTeams=false?mutator=Mut_LogoSplash_V2,MutHitsounds,SetNetSpeed,HiddenWeaponsUTPL,MutTeamSkins,Global_StatSQL-v2,NoPickupTimerMutator,ShockDom?AnalyticsLogged=true?ForceNoBots=1",
+      "gameOptions": "MaxPlayers=10?TimeLimit=15?GoalScore=300?BalanceTeams=false?mutator=Mut_LogoSplash_V2,MutHitsounds,ProMovement,SetNetSpeed,HiddenWeaponsUTPL,MutTeamSkins,Global_StatSQL-v2,NoPickupTimerMutator,ShockDom?AnalyticsLogged=true?ForceNoBots=1",
       "requiredPackages": [
         "/Game/Domination/BP_Dom.BP_Dom_C"
       ],
