@@ -75,7 +75,7 @@
         "/Game/Domination/BP_Dom.BP_Dom_C"
       ],
       "customMapList": [
-        "/Game/RestrictedAssets/Maps/Pater/DM-Typhoon",
+        "/Game/PaterAssets/MyMaps/Typhoon/DM-Typhoon_Shell",
 	"/Game/Domination/Maps/DM-SlimeTime",
 	"/Game/Domination/Maps/DM-Rankin-sdom",
 	"/Game/Domination/Maps/DM-Campgrounds-sdom",
