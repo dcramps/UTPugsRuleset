@@ -1161,6 +1161,7 @@
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
         "/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
         "/Game/DM-Elucidation/DM-Elucidation",
+	""/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05",      
         "/Game/RestrictedAssets/Maps/WIP/DM-Honk/DM-Honk",
       ],
       "maxPlayers": 8,
