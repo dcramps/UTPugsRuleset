@@ -1172,7 +1172,7 @@
       "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,ProMovement,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,HiddenWeaponsUTPL,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
+      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,UTPlusMovementElim,MutHitsounds,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,HiddenWeaponsUTPL,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ZohStuff/NetSpeed/SetNetSpeed.SetNetSpeed_C",
