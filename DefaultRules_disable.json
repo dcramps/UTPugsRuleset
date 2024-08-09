@@ -1107,6 +1107,7 @@
         "/Game/acmes_Content/Maps/DM-Deckdeck/DM-Deckdeck",
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
         "/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
+	"/Game/Converted/DM-Invictus/DM-Invictus",
         "/Game/DM-Elucidation/DM-Elucidation",
 	"/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05",
         "/Game/RestrictedAssets/Maps/WIP/DM-Honk/DM-Honk"
@@ -1116,7 +1117,7 @@
       "maxTeamSize": 4,
       "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
       "gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
-      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,WeaponSkinsPlus,UTPlusMovementElim,MutHitsounds,MutNoESP,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.5?RFFMomentumEnabled=1",
+      "gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=10?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,WeaponSkinsPlus,UTPlusMovementElim,MutHitsounds,MutNoESP,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.33?RFFMomentumEnabled=1",
       "requiredPackages": [
         "/Game/ALTS/Elimination_113.Elimination_113_C",
         "/Game/ZohStuff/NetSpeed/SetNetSpeed.SetNetSpeed_C",
