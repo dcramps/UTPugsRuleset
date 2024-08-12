@@ -1103,14 +1103,14 @@
 	"/Game/Converted/DM-Pending-UT2004/DM-Pending",
         "/Game/RestrictedAssets/Maps/DM-Chiller",
         "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
-        "/Game/GrendelKeep/DM-Grendelkeep_Shell",
         "/Game/acmes_Content/Maps/DM-Deckdeck/DM-Deckdeck",
         "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
         "/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
 	"/Game/Converted/DM-Invictus/DM-Invictus",
         "/Game/DM-Elucidation/DM-Elucidation",
+	"/Game/RestrictedAssets/Maps/WIP/CTF-Grendelkeepcopy4-UT2004/DM-Grendel",
 	"/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05",
-        "/Game/RestrictedAssets/Maps/WIP/DM-Honk/DM-Honk"
+        "/Game/Converted/DM-Entropic/DM-Entropic"
       ],
       "maxPlayers": 8,
       "maxTeamCount": 2,
