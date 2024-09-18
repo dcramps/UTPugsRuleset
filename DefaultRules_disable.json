@@ -1111,7 +1111,9 @@
 	"/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
 	"/Game/Signify/DM-Signify",
 	"/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
-	"/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c"
+	"/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
+	"/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
+	"/Game/Converted/DM-Elucidation-TE/DM-Elucidation-TE"
       ],
       "maxPlayers": 8,
       "maxTeamCount": 2,
