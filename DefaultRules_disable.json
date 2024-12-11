@@ -90,6 +90,49 @@
       "bHideFromUI": false,
       "epicForceUIVisibility": 0
     },   
+{
+  "uniqueTag": "WO",
+  "categories": [
+"Classic"
+  ],
+  "title": "4v4 Carnage",
+  "toolTip": "4v4 Carnage",
+  "description": "4v4 Wipeout\n-Hitsounds\n-TeamSkins\n-UT+\n",
+  "mapPrefixes": [
+"DM"
+  ],
+  "maxMapsInList": 0,
+  "quickPlayMaps": [],
+  "customMapList": [
+        "/Game/Maps/DM-Campgrounds/DM-Campgrounds-03a",
+	"/Game/Converted/DM-OSR-Cheops-UT2004/DM-Cheops-IV",
+	"/Game/RestrictedAssets/Maps/DM-Chiller",
+	"/Game/acmes_Content/Maps/DM-Deckdeck/DM-Deckdeck",
+	"/Game/DM-Elucidation/DM-Elucidation",
+	"/Game/Converted/DM-Entropic/DM-Entropic",
+	"/Game/RestrictedAssets/Maps/WIP/Cr4zy/DM-Faze_05",
+	"/Game/GrendelKeep/DM-Grendelkeep_Shell",
+	"/Game/Converted/DM-Invictus/DM-Invictus",
+	"/Game/Converted/DM-Pending-UT2004/DM-Pending",
+	"/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
+	"/Game/Rankin/DM-Rankin-LE",
+	"/Game/Converted/DM-AkBal-IV/DM-AkBal-IV",
+	"/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
+	"/Game/Signify/DM-Signify",
+	"/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
+	"/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
+	"/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
+	"/Game/Converted/DM-Elucidation-TE/DM-Elucidation-TE"
+  ],
+  "maxPlayers": 8,
+  "displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+  "gameMode": "/Game/Carnage/Carnage_GM.Carnage_GM_C",
+  "gameOptions": "?MapVoteTime=30?TimeLimit=60?GoalScore=5?ForceNoBots=1?mutator=UTPlus,NoCampers,WeaponSkinsPlus,MutHitsounds,MutNoESP,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,SetNetSpeed,RemoveGrenadeLauncher,MutHitsounds,ProMovement,MutTeamSkins",
+  "requiredPackages": [],
+  "bTeamGame": true,
+  "bCompetitiveMatch": false,
+  "bHideFromUI": false
+},	  
         {
       "uniqueTag": "Spring Elim Pub 4v4 Pro",
       "categories": [
