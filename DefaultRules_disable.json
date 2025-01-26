@@ -1134,6 +1134,39 @@
       "epicForceUIVisibility": 0
     },
     {
+	"uniqueTag": "AutoPug",
+	"categories": [
+		"AutoPug"
+	],
+	"title": "AutoPug",
+	"toolTip": "AutoPug",
+	"description": "AutoPug",
+	"mapPrefixes": [],
+	"maxMapsInList": 0,
+	"defaultMap": "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
+	"customMapList": [
+		"/Game/Converted/DM-Pending-UT2004/DM-Pending",
+		"/Game/_Ransom/Maps/DM-Quest/Versions/DM-Quest-K",
+		"/Game/Converted/DM-Entropic/DM-Entropic"
+	],
+	"maxPlayers": 8,
+	"maxTeamCount": 2,
+	"maxTeamSize": 4,
+	"displayTexture": "Texture2D'/Game/RestrictedAssets/UI/GameModeBadges/GB_TDM.GB_TDM'",
+	"gameMode": "/Game/ALTS/Elimination_113.Elimination_113_C",
+	"gameOptions": "?MaxPlayers=8?TimeLimit=30?GoalScore=2?ForceSpawn=true?BalanceTeams=false?MaxSpectators=2?MaxPlayerWait=65?ForceNoBots=1?mutator=UTPlus,NoCampers,WeaponSkinsPlus,MutHitsounds,ElimZoHUD,MutNoESP,Global_StatSQL-v2,MutTeamSkins,MutNSFF,ForceHubTools,SetNetSpeed,RemoveGrenadeLauncher,MutNoTaunt?AnalyticsLogged=true?ForceNoBots=1?FFPercent=-0.33?RFFMomentumEnabled=1",
+	"requiredPackages": [
+		"/Game/ALTS/Elimination_113.Elimination_113_C",
+		"/Game/ZohStuff/NetSpeed/SetNetSpeed.SetNetSpeed_C",
+		"/Game/UT+/Global_StatSQL-v2.Global_StatSQL-v2_C"
+	],
+	"bTeamGame": true,
+	"bCompetitiveMatch": false,
+	"optionFlags": 65535,
+	"bHideFromUI": true,
+	"epicForceUIVisibility": 0
+    },
+    {
       "uniqueTag": "Elim Draft",
       "categories": [
         "PUGS ONLY"
