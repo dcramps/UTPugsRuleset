@@ -3,7 +3,7 @@
         {
             "uniqueTag": "Elim Pub 5v5 ProMode",
             "categories": [
-                "Promode Elim"
+                "PUBS"
             ],
             "title": "5v5 Season Promode",
             "toolTip": "Elimination Public Ruleset.",
@@ -171,7 +171,7 @@
         {
             "uniqueTag": "WIPEOUT",
             "categories": [
-                "PUGS ONLY"
+                "PUGS/Practice"
             ],
             "title": "4v4 Carnage",
             "toolTip": "4v4 Carnage",
@@ -214,7 +214,7 @@
         {
             "uniqueTag": "Spring Elim Pub 4v4 Pro",
             "categories": [
-                "Promode Elim"
+                "PUBS"
             ],
             "title": "4v4 Elim Promode+",
             "toolTip": "Elimination Public Ruleset.",
@@ -267,7 +267,7 @@
         {
             "uniqueTag": "Elim Pub 3v3 Pro",
             "categories": [
-                "Promode Elim"
+                "PUBS"
             ],
             "title": "3v3 Spring Elim Promode",
             "toolTip": "Elimination Public Ruleset.",
