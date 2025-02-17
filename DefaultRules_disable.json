@@ -1168,12 +1168,12 @@
             "epicForceUIVisibility": 0
         },
         {
-            "uniqueTag": "Elim Draft",
+            "uniqueTag": "Elim Season 3",
             "categories": [
-                "PUGS ONLY"
+                "PUGS/Practice"
             ],
-            "title": "Elim Draft League",
-            "toolTip": "Elimination Draft League Pro+ ReverseFF Ruleset.",
+            "title": "Elim Season 3",
+            "toolTip": "Elimination Season 3 Pro+ ReverseFF Ruleset.",
             "description": "Elimination Draft League.\nDiscord: https://discord.gg/p8f7sYH\n\n<UT.Hub.RulesText_Small>Mutators: ProMode, ReverseFF.</>\n<UT.Hub.RulesText_Small>TimeLimit: %timelimit% minutes  Maximum players: %maxplayers%</>\n<UT.Hub.RulesText_Small>View your Stats: https://ut4stats.com</>",
             "mapPrefixes": [],
             "maxMapsInList": 0,
@@ -1194,6 +1194,7 @@
                 "/Game/Converted/DM-AkBal-IV/DM-AkBal-IV",
                 "/Game/Converted/DM-Remedya4-UT2004/DM-Remedy",
                 "/Game/Signify/DM-Signify",
+                "/Game/Converted/DM-Waisten-III/DM-Waisten-III",
                 "/Game/PaterAssets/MyMaps/Structured/DM-Structured_UT4_Light",
                 "/Game/Maps/DM-SuperFantasmic/DM-SuperFantasmic-02c",
                 "/Game/Mogno/Maps/DM-Cheops-Mog/DM-CheopsRemastered",
